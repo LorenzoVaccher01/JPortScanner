@@ -26,10 +26,8 @@ Ex: `java -jar PortScanner.jar -h lorenzovaccher.com -t 150 -t 100 -p 1024-5000`
 
 ## Screens
 <div align="center">
-  <img src="./_img/console.png" alt="Console" width="700px">
-</div>
-<div align="center">
-  <img src="./_img/parameters.png" alt="Parameters" width="700px">
+  <img src="./_img/console.png" alt="Console" width="500px">
+  <img src="./_img/parameters.png" alt="Parameters" width="500px">
 </div>
 
 ---
