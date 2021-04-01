@@ -1,0 +1,3299 @@
+protocol, port, name
+TCP/UDP,0,Reserved
+TCP/UDP,1,Port Service Multiplexer
+TCP/UDP,2,Management Utility
+TCP/UDP,3,Compression Process
+TCP/UDP,4,Unassigned
+TCP/UDP,5,Remote Job Entry
+TCP/UDP,6,Unassigned
+TCP/UDP,7,Echo
+TCP/UDP,8,Unassigned
+TCP/UDP,9,Discard
+TCP/UDP,10,Unassigned
+TCP/UDP,11,Active Users
+TCP/UDP,12,Unassigned
+TCP/UDP,13,Daytime (RFC 867)
+TCP/UDP,14,Unassigned
+TCP/UDP,15,Unassigned
+TCP/UDP,16,Unassigned
+TCP/UDP,17,Quote of the Day
+TCP/UDP,18,Message Send Protocol
+TCP/UDP,19,Character Generator
+TCP/UDP,20,File Transfer Protocol - Data
+TCP/UDP,21,File Transfer Protocol - Control
+TCP/UDP,22,SSH/SFTP
+TCP/UDP,23,Telnet
+TCP/UDP,24,Any private mail system
+TCP/UDP,25,Simple Mail Transfer Protocol
+TCP/UDP,26,Unassigned
+TCP/UDP,27,NSW User System FE
+TCP/UDP,28,Unassigned
+TCP/UDP,29,MSG ICP
+TCP/UDP,30,Unassigned
+TCP/UDP,31,MSG Authentication
+TCP/UDP,32,Unassigned
+TCP/UDP,33,Display Support Protocol
+TCP/UDP,34,Unassigned
+TCP/UDP,35,any private printer server
+TCP/UDP,36,Unassigned
+TCP/UDP,37,Time / W32.Sober.I virus
+TCP/UDP,38,Route Access Protocol
+TCP/UDP,39,Resource Location Protocol
+TCP/UDP,40,Unassigned
+TCP/UDP,41,Graphics
+TCP/UDP,42,Host Name Server
+TCP/UDP,43,WhoIs
+TCP/UDP,44,MPM FLAGS Protocol
+TCP/UDP,45,Message Processing Module [recv]
+TCP/UDP,46,MPM [default send]
+TCP/UDP,47,NI FTP
+TCP/UDP,48,Digital Audit Daemon
+TCP/UDP,49,Login Host Protocol (TACACS)
+TCP/UDP,50,Remote Mail Checking Protocol
+TCP/UDP,51,IMP Logical Address Maintenance
+TCP/UDP,52,XNS Time Protocol
+TCP/UDP,53,Domain Name Server
+TCP/UDP,54,XNS Clearinghouse
+TCP/UDP,55,ISI Graphics Language
+TCP/UDP,56,XNS Authentication
+TCP/UDP,57,any private terminal access
+TCP/UDP,58,XNS Mail
+TCP/UDP,59,any private file service
+TCP/UDP,60,Unassigned
+TCP/UDP,61,NI MAIL
+TCP/UDP,62,ACA Services
+TCP/UDP,63,whois++
+TCP/UDP,64,Communications Integrator (CI)
+TCP/UDP,65,TACACS-Database Service
+TCP/UDP,66,Oracle SQL*NET
+TCP/UDP,67,Bootstrap Protocol Server
+TCP/UDP,68,Bootstrap Protocol Client
+TCP/UDP,69,Trivial File Transfer
+TCP/UDP,70,Gopher
+TCP/UDP,71,Remote Job Service
+TCP/UDP,72,Remote Job Service
+TCP/UDP,73,Remote Job Service
+TCP/UDP,74,Remote Job Service
+TCP/UDP,75,any private dial out service
+TCP/UDP,76,Distributed External Object Store
+TCP/UDP,77,any private RJE service
+TCP/UDP,78,vettcp
+TCP/UDP,79,Finger
+TCP/UDP,80,HTTP
+TCP/UDP,81,HOSTS2 Name Server / Bagle-AZ worm / Win32.Rbot worm
+TCP/UDP,82,XFER Utility
+TCP/UDP,83,MIT ML Device
+TCP/UDP,84,Common Trace Facility
+TCP/UDP,85,MIT ML Device
+TCP/UDP,86,Micro Focus Cobol
+TCP/UDP,87,any private terminal link
+TCP/UDP,88,Kerberos
+TCP/UDP,89,SU/MIT Telnet Gateway
+TCP/UDP,90,DNSIX Securit Attribute Token Map
+TCP/UDP,91,MIT Dover Spooler
+TCP/UDP,92,Network Printing Protocol
+TCP/UDP,93,Device Control Protocol
+TCP/UDP,94,Tivoli Object Dispatcher
+TCP/UDP,95,SUPDUP
+TCP/UDP,96,DIXIE Protocol Specification
+TCP/UDP,97,Swift Remote Virtural File Protocol
+TCP/UDP,98,Linuxconf / TAC News
+TCP/UDP,99,Metagram Relay
+TCP,100,[unauthorized use]
+TCP/UDP,101,NIC Host Name Server
+TCP/UDP,102,MSExchangeMTA X.400 / ISO-TSAP Class 0
+TCP/UDP,103,Genesis Point-to-Point Trans Net
+TCP/UDP,104,ACR-NEMA Digital Imag. & Comm. 300
+TCP/UDP,105,Mailbox Name Nameserver
+TCP/UDP,106,3COM-TSMUX
+TCP/UDP,107,Remote Telnet Service
+TCP/UDP,108,SNA Gateway Access Server
+TCP/UDP,109,Post Office Protocol - Version 2
+TCP/UDP,110,Post Office Protocol - Version 3
+TCP/UDP,111,SUN Remote Procedure Call
+TCP/UDP,112,McIDAS Data Transmission Protocol
+TCP/UDP,113,Authentication Service
+TCP/UDP,114,Audio News Multicast
+TCP/UDP,115,Simple File Transfer Protocol
+TCP/UDP,116,ANSA REX Notify
+TCP/UDP,117,UUCP Path Service
+TCP/UDP,118,SQL Services
+TCP/UDP,119,Network News Transfer Protocol
+TCP/UDP,120,CFDPTKT
+TCP/UDP,121,Encore Expedited Remote Pro.Call
+TCP/UDP,122,SMAKYNET
+TCP/UDP,123,Network Time Protocol
+TCP/UDP,124,ANSA REX Trader
+TCP/UDP,125,Locus PC-Interface Net Map Ser
+TCP/UDP,126,Unisys Unitary Login
+TCP/UDP,127,Locus PC-Interface Conn Server
+TCP/UDP,128,GSS X License Verification
+TCP/UDP,129,Password Generator Protocol
+TCP/UDP,130,cisco FNATIVE
+TCP/UDP,131,cisco TNATIVE
+TCP/UDP,132,cisco SYSMAINT
+TCP/UDP,133,Statistics Service
+TCP/UDP,134,INGRES-NET Service
+TCP/UDP,135,DCE endpoint resolution
+TCP/UDP,136,PROFILE Naming System
+TCP/UDP,137,NETBIOS Name Service
+TCP/UDP,138,NETBIOS Datagram Service
+TCP/UDP,139,NETBIOS Session Service
+TCP/UDP,140,EMFIS Data Service
+TCP/UDP,141,EMFIS Control Service
+TCP/UDP,142,Britton-Lee IDM
+TCP/UDP,143,Internet Message Access Protocol
+TCP/UDP,144,Universal Management Architecture
+TCP/UDP,145,UAAC Protocol
+TCP/UDP,146,ISO-IP0
+TCP/UDP,147,ISO-IP
+TCP/UDP,148,Jargon
+TCP/UDP,149,AED 512 Emulation Service
+TCP/UDP,150,SQL-NET
+TCP/UDP,151,HEMS
+TCP/UDP,152,Background File Transfer Program
+TCP/UDP,153,SGMP
+TCP/UDP,154,NETSC
+TCP/UDP,155,NETSC
+TCP/UDP,156,SQL Service
+TCP/UDP,157,KNET/VM Command/Message Protocol
+TCP/UDP,158,PCMail Server
+TCP/UDP,159,NSS-Routing
+TCP/UDP,160,SGMP-TRAPS
+TCP/UDP,161,SNMP
+TCP/UDP,162,SNMPTRAP
+TCP/UDP,163,CMIP/TCP Manager
+TCP/UDP,164,CMIP/TCP Agent
+TCP/UDP,165,Xerox
+TCP/UDP,166,Sirius Systems
+TCP/UDP,167,NAMP
+TCP/UDP,168,RSVD
+TCP/UDP,169,SEND
+TCP/UDP,170,Network PostScript
+TCP/UDP,171,Network Innovations Multiplex
+TCP/UDP,172,Network Innovations CL/1
+TCP/UDP,173,Xyplex
+TCP/UDP,174,MAILQ
+TCP/UDP,175,VMNET
+TCP/UDP,176,GENRAD-MUX
+TCP/UDP,177,X Display Manager Control Protocol
+TCP/UDP,178,NextStep Window Server
+TCP/UDP,179,Border Gateway Protocol
+TCP/UDP,180,Intergraph
+TCP/UDP,181,Unify
+TCP/UDP,182,Unisys Audit SITP
+TCP/UDP,183,OCBinder
+TCP/UDP,184,OCServer
+TCP/UDP,185,Remote-KIS
+TCP/UDP,186,KIS Protocol
+TCP/UDP,187,Application Communication Interface
+TCP/UDP,188,Plus Five's MUMPS
+TCP/UDP,189,Queued File Transport
+TCP/UDP,190,Gateway Access Control Protocol
+TCP/UDP,191,Prospero Directory Service
+TCP/UDP,192,OSU Network Monitoring System
+TCP/UDP,193,Spider Remote Monitoring Protocol
+TCP/UDP,194,Internet Relay Chat Protocol
+TCP/UDP,195,DNSIX Network Level Module Audit
+TCP/UDP,196,DNSIX Session Mgt Module Audit Redir
+TCP/UDP,197,Directory Location Service
+TCP/UDP,198,Directory Location Service Monitor
+TCP/UDP,199,SMUX
+TCP/UDP,200,IBM System Resource Controller
+TCP/UDP,201,AppleTalk Routing Maintenance
+TCP/UDP,202,AppleTalk Name Binding
+TCP/UDP,203,AppleTalk Unused
+TCP/UDP,204,AppleTalk Echo
+TCP/UDP,205,AppleTalk Unused
+TCP/UDP,206,AppleTalk Zone Information
+TCP/UDP,207,AppleTalk Unused
+TCP/UDP,208,AppleTalk Unused
+TCP/UDP,209,The Quick Mail Transfer Protocol
+TCP/UDP,210,ANSI Z39.50
+TCP/UDP,211,Texas Instruments 914C/G Terminal
+TCP/UDP,212,ATEXSSTR
+TCP/UDP,213,IPX
+TCP/UDP,214,VM PWSCS
+TCP/UDP,215,Insignia Solutions
+TCP/UDP,216,Computer Associates Int'l License Server
+TCP/UDP,217,dBASE Unix
+TCP/UDP,218,Netix Message Posting Protocol
+TCP/UDP,219,Unisys ARPs
+TCP/UDP,220,Interactive Mail Access Protocol v3
+TCP/UDP,221,Berkeley rlogind with SPX auth
+TCP/UDP,222,Berkeley rshd with SPX auth
+TCP/UDP,223,Certificate Distribution Center
+TCP/UDP,224,masqdialer
+TCP/UDP,242,Direct
+TCP/UDP,243,Survey Measurement
+TCP/UDP,244,inbusiness
+TCP/UDP,245,LINK
+TCP/UDP,246,Display Systems Protocol
+TCP/UDP,247,SUBNTBCST_TFTP
+TCP/UDP,248,bhfhs
+TCP/UDP,256,RAP/Checkpoint SNMP
+TCP/UDP,257,Check Point / Secure Electronic Transaction
+TCP/UDP,258,Check Point / Yak Winsock Personal Chat
+TCP/UDP,259,Check Point Firewall-1 telnet auth / Efficient Short Remote Operations
+TCP/UDP,260,Openport
+TCP/UDP,261,IIOP Name Service over TLS/SSL
+TCP/UDP,262,Arcisdms
+TCP/UDP,263,HDAP
+TCP/UDP,264,BGMP / Check Point
+TCP/UDP,265,X-Bone CTL
+TCP/UDP,266,SCSI on ST
+TCP/UDP,267,Tobit David Service Layer
+TCP/UDP,268,Tobit David Replica
+TCP/UDP,280,HTTP-mgmt
+TCP/UDP,281,Personal Link
+TCP/UDP,282,Cable Port A/X
+TCP/UDP,283,rescap
+TCP/UDP,284,corerjd
+TCP/UDP,286,FXP-1
+TCP/UDP,287,K-BLOCK
+TCP/UDP,308,Novastor Backup
+TCP/UDP,309,EntrustTime
+TCP/UDP,310,bhmds
+TCP/UDP,311,AppleShare IP WebAdmin
+TCP/UDP,312,VSLMP
+TCP/UDP,313,Magenta Logic
+TCP/UDP,314,Opalis Robot
+TCP/UDP,315,DPSI
+TCP/UDP,316,decAuth
+TCP/UDP,317,Zannet
+TCP/UDP,318,PKIX TimeStamp
+TCP/UDP,319,PTP Event
+TCP/UDP,320,PTP General
+TCP/UDP,321,PIP
+TCP/UDP,322,RTSPS
+TCP/UDP,333,Texar Security Port
+TCP/UDP,344,Prospero Data Access Protocol
+TCP/UDP,345,Perf Analysis Workbench
+TCP/UDP,346,Zebra server
+TCP/UDP,347,Fatmen Server
+TCP/UDP,348,Cabletron Management Protocol
+TCP/UDP,349,mftp
+TCP/UDP,350,MATIP Type A
+TCP/UDP,351,bhoetty (added 5/21/97)
+TCP/UDP,352,bhoedap4 (added 5/21/97)
+TCP/UDP,353,NDSAUTH
+TCP/UDP,354,bh611
+TCP/UDP,355,DATEX-ASN
+TCP/UDP,356,Cloanto Net 1
+TCP/UDP,357,bhevent
+TCP/UDP,358,Shrinkwrap
+TCP/UDP,359,Tenebris Network Trace Service
+TCP/UDP,360,scoi2odialog
+TCP/UDP,361,Semantix
+TCP/UDP,362,SRS Send
+TCP/UDP,363,RSVP Tunnel
+TCP/UDP,364,Aurora CMGR
+TCP/UDP,365,DTK
+TCP/UDP,366,ODMR
+TCP/UDP,367,MortgageWare
+TCP/UDP,368,QbikGDP
+TCP/UDP,369,rpc2portmap
+TCP/UDP,370,codaauth2
+TCP/UDP,371,Clearcase
+TCP/UDP,372,ListProcessor
+TCP/UDP,373,Legent Corporation
+TCP/UDP,374,Legent Corporation
+TCP/UDP,375,Hassle
+TCP/UDP,376,Amiga Envoy Network Inquiry Proto
+TCP/UDP,377,NEC Corporation
+TCP/UDP,378,NEC Corporation
+TCP/UDP,379,TIA/EIA/IS-99 modem client
+TCP/UDP,380,TIA/EIA/IS-99 modem server
+TCP/UDP,381,hp performance data collector
+TCP/UDP,382,hp performance data managed node
+TCP/UDP,383,hp performance data alarm manager
+TCP/UDP,384,A Remote Network Server System
+TCP/UDP,385,IBM Application
+TCP/UDP,386,ASA Message Router Object Def.
+TCP/UDP,387,Appletalk Update-Based Routing Pro.
+TCP/UDP,388,Unidata LDM
+TCP/UDP,389,Lightweight Directory Access Protocol / Internet Locator Service (ILS)
+TCP/UDP,390,UIS
+TCP/UDP,391,SynOptics SNMP Relay Port
+TCP/UDP,392,SynOptics Port Broker Port
+TCP/UDP,393,Data Interpretation System
+TCP/UDP,394,EMBL Nucleic Data Transfer
+TCP/UDP,395,NETscout Control Protocol
+TCP/UDP,396,Novell Netware over IP
+TCP/UDP,397,Multi Protocol Trans. Net.
+TCP/UDP,398,Kryptolan
+TCP/UDP,399,ISO Transport Class 2 Non-Control over TCP
+TCP/UDP,400,Workstation Solutions
+TCP/UDP,401,Uninterruptible Power Supply
+TCP/UDP,402,Genie Protocol
+TCP/UDP,403,decap
+TCP/UDP,404,nced
+TCP/UDP,405,ncld
+TCP/UDP,406,Interactive Mail Support Protocol
+TCP/UDP,407,Timbuktu
+TCP/UDP,408,Prospero Resource Manager Sys. Man.
+TCP/UDP,409,Prospero Resource Manager Node Man.
+TCP/UDP,410,DECLadebug Remote Debug Protocol
+TCP/UDP,411,Remote MT Protocol
+TCP/UDP,412,NeoModus Direct Connect (Windows file sharing program) / Trap Convention Port
+TCP/UDP,413,SMSP
+TCP/UDP,414,InfoSeek
+TCP/UDP,415,BNet
+TCP/UDP,416,Silverplatter
+TCP/UDP,417,Onmux
+TCP/UDP,418,Hyper-G
+TCP/UDP,419,Ariel
+TCP/UDP,420,SMPTE
+TCP/UDP,421,Ariel
+TCP/UDP,422,Ariel
+TCP/UDP,423,IBM Operations Planning and Control Start
+TCP/UDP,424,IBM Operations Planning and Control Track
+TCP/UDP,425,ICAD
+TCP/UDP,426,smartsdp
+TCP/UDP,427,Server Location
+TCP/UDP,428,OCS_CMU
+TCP/UDP,429,OCS_AMU
+TCP/UDP,430,UTMPSD
+TCP/UDP,431,UTMPCD
+TCP/UDP,432,IASD
+TCP/UDP,433,NNSP
+TCP/UDP,434,MobileIP-Agent
+TCP/UDP,435,MobilIP-MN
+TCP/UDP,436,DNA-CML
+TCP/UDP,437,comscm
+TCP/UDP,438,dsfgw
+TCP/UDP,439,dasp
+TCP/UDP,440,sgcp
+TCP/UDP,441,decvms-sysmgt
+TCP/UDP,442,cvc_hostd
+TCP/UDP,443,HTTPS
+TCP/UDP,444,Simple Network Paging Protocol
+TCP/UDP,445,Microsoft-DS
+TCP/UDP,446,DDM-RDB
+TCP/UDP,447,DDM-RFM
+TCP/UDP,448,DDM-SSL
+TCP/UDP,449,AS Server Mapper
+TCP/UDP,450,TServer
+TCP/UDP,451,Cray Network Semaphore server
+TCP/UDP,452,Cray SFS config server
+TCP/UDP,453,CreativeServer
+TCP/UDP,454,ContentServer
+TCP/UDP,455,CreativePartnr
+TCP/UDP,456,macon-tcp
+TCP/UDP,457,scohelp
+TCP/UDP,458,apple quick time
+TCP/UDP,459,ampr-rcmd
+TCP/UDP,460,skronk
+TCP/UDP,461,DataRampSrv
+TCP/UDP,462,DataRampSrvSec
+TCP/UDP,463,alpes
+TCP/UDP,464,kpasswd
+TCP/UDP,465,SMTPS
+TCP/UDP,466,digital-vrc
+TCP/UDP,467,mylex-mapd
+TCP/UDP,468,proturis
+TCP/UDP,469,Radio Control Protocol
+TCP/UDP,470,scx-proxy
+TCP/UDP,471,Mondex
+TCP/UDP,472,ljk-login
+TCP/UDP,473,hybrid-pop
+TCP/UDP,474,tn-tl-w1
+TCP/UDP,475,tcpnethaspsrv
+TCP/UDP,476,tn-tl-fd1
+TCP/UDP,477,ss7ns
+TCP/UDP,478,spsc
+TCP/UDP,479,iafserver
+TCP/UDP,480,iafdbase
+TCP/UDP,481,Ph service
+TCP/UDP,482,bgs-nsi
+TCP/UDP,483,ulpnet
+TCP/UDP,484,Integra Software Management Environment
+TCP/UDP,485,Air Soft Power Burst
+TCP/UDP,486,avian
+TCP/UDP,487,saft Simple Asynchronous File Transfer
+TCP/UDP,488,gss-HTTP
+TCP/UDP,489,nest-protocol
+TCP/UDP,490,micom-pfs
+TCP/UDP,491,go-login
+TCP/UDP,492,Transport Independent Convergence for FNA
+TCP/UDP,493,Transport Independent Convergence for FNA
+TCP/UDP,494,POV-Ray
+TCP/UDP,495,intecourier
+TCP/UDP,496,PIM-RP-DISC
+TCP/UDP,497,dantz
+TCP/UDP,498,siam
+TCP/UDP,499,ISO ILL Protocol
+TCP/UDP,500,ISAKMP
+TCP/UDP,501,STMF
+TCP/UDP,502,asa-appl-proto
+TCP/UDP,503,Intrinsa
+TCP/UDP,504,citadel
+TCP/UDP,505,mailbox-lm
+TCP/UDP,506,ohimsrv
+TCP/UDP,507,crs
+TCP/UDP,508,xvttp
+TCP/UDP,509,snare
+TCP/UDP,510,FirstClass Protocol
+TCP/UDP,511,PassGo
+TCP/UDP,512,Remote process execution
+TCP/UDP,513,Remote Login
+TCP/UDP,514,Remote Shell
+TCP/UDP,515,spooler
+TCP/UDP,516,videotex
+TCP/UDP,517,like tenex link but across
+TCP/UDP,518,talkd
+TCP/UDP,519,unixtime
+TCP/UDP,520,extended file name server
+TCP/UDP,521,ripng
+TCP/UDP,522,User Location Service / ULP
+TCP/UDP,523,IBM-DB2
+TCP/UDP,524,NCP
+TCP/UDP,525,timeserver
+TCP/UDP,526,newdate
+TCP/UDP,527,Stock IXChange
+TCP/UDP,528,Customer IXChange
+TCP/UDP,529,IRC-SERV
+TCP/UDP,530,rpc
+TCP/UDP,531,chat
+TCP/UDP,532,readnews
+TCP/UDP,533,for emergency broadcasts
+TCP/UDP,534,MegaMedia Admin
+TCP/UDP,535,iiop
+TCP/UDP,536,opalis-rdv
+TCP/UDP,537,Networked Media Streaming Protocol
+TCP/UDP,538,gdomap
+TCP/UDP,539,Apertus Technologies Load Determination
+TCP/UDP,540,uucpd
+TCP/UDP,541,uucp-rlogin
+TCP/UDP,542,commerce
+TCP/UDP,543,kerberos (v4/v5)
+TCP/UDP,544,krcmd
+TCP/UDP,545,appleqtcsrvr
+TCP/UDP,546,DHCPv6 Client
+TCP/UDP,547,DHCPv6 Server
+TCP/UDP,548,AppleShare AFP over TCP
+TCP/UDP,549,IDFP
+TCP/UDP,550,new-who
+TCP/UDP,551,cybercash
+TCP/UDP,552,deviceshare
+TCP/UDP,553,pirp
+TCP/UDP,554,Real Time Stream Control Protocol
+TCP/UDP,555,phAse Zero backdoor (Win 9x
+TCP/UDP,556,rfs server
+TCP/UDP,557,openvms-sysipc
+TCP/UDP,558,SDNSKMP
+TCP/UDP,559,TEEDTAP / Backdoor.Domwis Win32 trojan
+TCP/UDP,560,rmonitord
+TCP/UDP,561,monitor
+TCP/UDP,562,chcmd
+TCP/UDP,563,AOL IM / NNTP protocol over TLS/SSL
+TCP/UDP,564,plan 9 file service
+TCP/UDP,565,whoami
+TCP/UDP,566,streettalk
+TCP/UDP,567,banyan-rpc
+TCP/UDP,568,microsoft shuttle
+TCP/UDP,569,microsoft rome
+TCP/UDP,570,demon
+TCP/UDP,571,udemon
+TCP/UDP,572,sonar
+TCP/UDP,573,banyan-vip
+TCP/UDP,574,FTP Software Agent System
+TCP/UDP,575,VEMMI
+TCP/UDP,576,ipcd
+TCP/UDP,577,vnas
+TCP/UDP,578,ipdd
+TCP/UDP,579,decbsrv
+TCP/UDP,580,SNTP HEARTBEAT
+TCP/UDP,581,Bundle Discovery Protocol
+TCP/UDP,582,SCC Security
+TCP/UDP,583,Philips Video-Conferencing
+TCP/UDP,584,Key Server
+TCP/UDP,585,IMAP4+SSL
+TCP/UDP,586,Password Change
+TCP/UDP,587,Message Submission (Sendmail)
+TCP/UDP,588,CAL
+TCP/UDP,589,EyeLink
+TCP/UDP,590,TNS CML
+TCP/UDP,591,FileMaker Inc. - HTTP Alternate
+TCP/UDP,592,Eudora Set
+TCP/UDP,593,HTTP RPC Ep Map
+TCP/UDP,594,TPIP
+TCP/UDP,595,CAB Protocol
+TCP/UDP,596,SMSD
+TCP/UDP,597,PTC Name Service
+TCP/UDP,598,SCO Web Server Manager 3
+TCP/UDP,599,Aeolon Core Protocol
+TCP/UDP,600,Sun IPC server
+TCP/UDP,606,Cray Unified Resource Manager
+TCP/UDP,607,nqs
+TCP/UDP,608,Sender-Initiated/Unsolicited File Transfer
+TCP/UDP,609,npmp-trap
+TCP/UDP,610,Apple Admin Service / npmp-local
+TCP/UDP,611,npmp-gui
+TCP/UDP,612,HMMP Indication
+TCP/UDP,613,HMMP Operation
+TCP/UDP,614,SSLshell
+TCP/UDP,615,Internet Configuration Manager
+TCP/UDP,616,SCO System Administration Server
+TCP/UDP,617,SCO Desktop Administration Server
+TCP/UDP,618,DEI-ICDA
+TCP/UDP,619,Digital EVM
+TCP/UDP,620,SCO WebServer Manager
+TCP/UDP,621,ESCP
+TCP/UDP,622,Collaborator
+TCP/UDP,623,Aux Bus Shunt
+TCP/UDP,624,Crypto Admin
+TCP/UDP,625,DEC DLM
+TCP/UDP,626,ASIA
+TCP/UDP,627,PassGo Tivoli
+TCP/UDP,628,QMQP
+TCP/UDP,629,3Com AMP3
+TCP/UDP,630,RDA
+TCP/UDP,631,IPP (Internet Printing Protocol)
+TCP/UDP,632,bmpp
+TCP/UDP,633,Service Status update (Sterling Software)
+TCP/UDP,634,ginad
+TCP/UDP,635,RLZ DBase
+TCP/UDP,636,LDAP protocol over TLS/SSL
+TCP/UDP,637,lanserver
+TCP/UDP,638,mcns-sec
+TCP/UDP,639,MSDP
+TCP/UDP,640,entrust-sps
+TCP/UDP,641,repcmd
+TCP/UDP,642,ESRO-EMSDP V1.3
+TCP/UDP,643,SANity
+TCP/UDP,644,dwr
+TCP/UDP,645,PSSC
+TCP/UDP,646,LDP
+TCP/UDP,647,DHCP Failover
+TCP/UDP,648,Registry Registrar Protocol (RRP)
+TCP/UDP,649,Aminet
+TCP/UDP,650,OBEX
+TCP/UDP,651,IEEE MMS
+TCP/UDP,652,UDLR_DTCP
+TCP/UDP,653,RepCmd
+TCP/UDP,654,AODV
+TCP/UDP,655,TINC
+TCP/UDP,656,SPMP
+TCP/UDP,657,RMC
+TCP/UDP,658,TenFold
+TCP/UDP,659,URL Rendezvous
+TCP/UDP,660,MacOS Server Admin
+TCP/UDP,661,HAP
+TCP/UDP,662,PFTP
+TCP/UDP,663,PureNoise
+TCP/UDP,664,Secure Aux Bus
+TCP/UDP,665,Sun DR
+TCP/UDP,666,doom Id Software
+TCP/UDP,667,campaign contribution disclosures - SDR Technologies
+TCP/UDP,668,MeComm
+TCP/UDP,669,MeRegister
+TCP/UDP,670,VACDSM-SWS
+TCP/UDP,671,VACDSM-APP
+TCP/UDP,672,VPPS-QUA
+TCP/UDP,673,CIMPLEX
+TCP/UDP,674,ACAP
+TCP/UDP,675,DCTP
+TCP/UDP,676,VPPS Via
+TCP/UDP,677,Virtual Presence Protocol
+TCP/UDP,678,GNU Gereration Foundation NCP
+TCP/UDP,679,MRM
+TCP/UDP,680,entrust-aaas
+TCP/UDP,681,entrust-aams
+TCP/UDP,682,XFR
+TCP/UDP,683,CORBA IIOP
+TCP/UDP,684,CORBA IIOP SSL
+TCP/UDP,685,MDC Port Mapper
+TCP/UDP,686,Hardware Control Protocol Wismar
+TCP/UDP,687,asipregistry
+TCP/UDP,688,REALM-RUSD
+TCP/UDP,689,NMAP
+TCP/UDP,690,VATP
+TCP/UDP,691,MS Exchange Routing
+TCP/UDP,692,Hyperwave-ISP
+TCP/UDP,693,connendp
+TCP/UDP,694,ha-cluster
+TCP/UDP,695,IEEE-MMS-SSL
+TCP/UDP,696,RUSHD
+TCP/UDP,697,UUIDGEN
+TCP/UDP,698,OLSR
+TCP/UDP,704,errlog copy/server daemon
+TCP/UDP,705,AgentX
+TCP/UDP,706,SILC
+TCP/UDP,707,W32.Nachi Worm / Borland DSJ
+TCP/UDP,709,Entrust Key Management Service Handler
+TCP/UDP,710,Entrust Administration Service Handler
+TCP/UDP,711,Cisco TDP
+TCP/UDP,729,IBM NetView DM/6000 Server/Client
+TCP/UDP,730,IBM NetView DM/6000 send/tcp
+TCP/UDP,731,IBM NetView DM/6000 receive/tcp
+TCP/UDP,740,(old) NETscout Control Protocol (old)
+TCP/UDP,741,netGW
+TCP/UDP,742,Network based Rev. Cont. Sys.
+TCP/UDP,744,Flexible License Manager
+TCP/UDP,747,Fujitsu Device Control
+TCP/UDP,748,Russell Info Sci Calendar Manager
+TCP/UDP,749,kerberos administration
+TCP/UDP,750,rfile
+TCP/UDP,751,pump
+TCP/UDP,752,Kerberos password server
+TCP/UDP,753,Kerberos userreg server
+TCP/UDP,754,send
+TCP/UDP,758,nlogin
+TCP/UDP,759,con
+TCP/UDP,760,kreg
+TCP/UDP,761,kpwd
+TCP/UDP,762,quotad
+TCP/UDP,763,cycleserv
+TCP/UDP,764,omserv
+TCP/UDP,765,webster
+TCP/UDP,767,phone
+TCP/UDP,769,vid
+TCP/UDP,770,cadlock
+TCP/UDP,771,rtip
+TCP/UDP,772,cycleserv2
+TCP/UDP,773,submit
+TCP/UDP,774,rpasswd
+TCP/UDP,775,entomb
+TCP/UDP,776,wpages
+TCP/UDP,777,Multiling HTTP
+TCP/UDP,780,wpgs
+TCP/UDP,781,HP performance data collector
+TCP/UDP,782,node HP performance data managed node
+TCP/UDP,783,HP performance data alarm manager
+TCP/UDP,786,Concert
+TCP/UDP,787,QSC
+TCP,799,ControlIT / Remotely Possible
+TCP/UDP,800,mdbs_daemon / Remotely Possible
+TCP/UDP,801,device
+TCP,808,CCProxy
+TCP/UDP,810,FCP
+TCP/UDP,828,itm-mcell-s
+TCP/UDP,829,PKIX-3 CA/RA
+TCP,871,SUP server
+TCP/UDP,873,rsync
+TCP/UDP,886,ICL coNETion locate server
+TCP/UDP,887,ICL coNETion server info
+TCP/UDP,888,CD Database Protocol
+TCP/UDP,900,Check Point Firewall-1 HTTP administration / OMG Initial Refs
+TCP/UDP,901,Samba Web Administration Tool / Realsecure / SMPNAMERES/ NetDevil trojan
+TCP/UDP,902,VMware Authentication Daemon / IDEAFARM-CHAT
+TCP/UDP,903,IDEAFARM-CATCH / NetDevil trojan
+TCP/UDP,911,xact-backup
+TCP,912,VMware Authentication Daemon
+TCP/UDP,989,FTP protocol data over TLS/SSL
+TCP/UDP,990,FTP protocol control over TLS/SSL
+TCP/UDP,991,Netnews Administration System
+TCP/UDP,992,Telnet protocol over TLS/SSL
+TCP/UDP,993,IMAP4 protocol over TLS/SSL
+TCP/UDP,994,IRC protocol over TLS/SSL
+TCP/UDP,995,POP3 protocol over TLS/SSL
+TCP/UDP,996,vsinet
+TCP/UDP,997,maitrd
+TCP/UDP,998,busboy
+TCP/UDP,999,puprouter
+TCP/UDP,1000,cadlock
+TCP,1002,Microsoft Site Server Internet Locator Service (Netmeeting/ICF)
+TCP/UDP,1008,UFS-aware server
+TCP/UDP,1010,surf
+TCP,1011,Doly (Windows Trojan)
+TCP,1015,Doly (Windows Trojan)
+TCP/UDP,1023,Reserved
+TCP/UDP,1024,Reserved
+TCP/UDP,1025,MSTASK / network blackjack
+TCP,1026,MSTASK / Remote Login Network Terminal
+TCP/UDP,1030,BBN IAD
+TCP/UDP,1031,InetInfo / BBN IAD
+TCP/UDP,1032,BBN IAD
+TCP,1042,W32.Mydoom.L virus
+TCP/UDP,1047,Sun's NEO Object Request Broker
+TCP/UDP,1048,Sun's NEO Object Request Broker
+TCP/UDP,1049,Tobit David Postman VPMN
+TCP/UDP,1050,CORBA Management Agent
+TCP/UDP,1051,Optima VNET
+TCP/UDP,1052,Dynamic DNS Tools
+TCP/UDP,1053,Remote Assistant (RA)
+TCP/UDP,1054,BRVREAD
+TCP/UDP,1055,ANSYS - License Manager
+TCP/UDP,1056,VFO
+TCP/UDP,1057,STARTRON
+TCP/UDP,1058,nim
+TCP/UDP,1059,nimreg
+TCP/UDP,1060,POLESTAR
+TCP/UDP,1061,KIOSK
+TCP/UDP,1062,Veracity
+TCP/UDP,1063,KyoceraNetDev
+TCP/UDP,1064,JSTEL
+TCP/UDP,1065,SYSCOMLAN
+TCP/UDP,1066,FPO-FNS
+TCP/UDP,1067,Installation Bootstrap Proto. Serv.
+TCP/UDP,1068,Installation Bootstrap Proto. Cli.
+TCP/UDP,1069,COGNEX-INSIGHT
+TCP/UDP,1070,GMRUpdateSERV
+TCP/UDP,1071,BSQUARE-VOIP
+TCP/UDP,1072,CARDAX
+TCP/UDP,1073,BridgeControl
+TCP/UDP,1074,FASTechnologies License Manager
+TCP/UDP,1075,RDRMSHC
+TCP/UDP,1076,DAB STI-C
+TCP/UDP,1077,IMGames
+TCP/UDP,1078,eManageCstp
+TCP/UDP,1079,ASPROVATalk
+TCP/UDP,1080,Socks / W32.Beagle.AB trojan
+TCP/UDP,1081,PVUNIWIEN
+TCP/UDP,1082,AMT-ESD-PROT
+TCP/UDP,1083,Anasoft License Manager
+TCP/UDP,1084,Anasoft License Manager
+TCP/UDP,1085,Web Objects
+TCP/UDP,1086,CPL Scrambler Logging
+TCP/UDP,1087,CPL Scrambler Internal
+TCP/UDP,1088,CPL Scrambler Alarm Log
+TCP/UDP,1089,FF Annunciation
+TCP/UDP,1090,FF Fieldbus Message Specification
+TCP/UDP,1091,FF System Management
+TCP/UDP,1092,OBRPD
+TCP/UDP,1093,PROOFD
+TCP/UDP,1094,ROOTD
+TCP/UDP,1095,NICELink
+TCP/UDP,1096,Common Name Resolution Protocol
+TCP/UDP,1097,Sun Cluster Manager
+TCP/UDP,1098,RMI Activation
+TCP/UDP,1099,RMI Registry
+TCP/UDP,1100,MCTP
+TCP/UDP,1101,PT2-DISCOVER
+TCP/UDP,1102,ADOBE SERVER 1
+TCP/UDP,1103,ADOBE SERVER 2
+TCP/UDP,1104,XRL
+TCP/UDP,1105,FTRANHC
+TCP/UDP,1106,ISOIPSIGPORT-1
+TCP/UDP,1107,ISOIPSIGPORT-2
+TCP/UDP,1108,ratio-adp
+TCP,1109,Pop with Kerberos
+TCP/UDP,1110,Cluster status info
+TCP/UDP,1111,LM Social Server
+TCP/UDP,1112,Intelligent Communication Protocol
+TCP/UDP,1114,Mini SQL
+TCP/UDP,1115,ARDUS Transfer
+TCP/UDP,1116,ARDUS Control
+TCP/UDP,1117,ARDUS Multicast Transfer
+TCP/UDP,1123,Murray
+TCP,1127,SUP debugging
+TCP/UDP,1155,Network File Access
+TCP/UDP,1161,Health Polling
+TCP/UDP,1162,Health Trap
+TCP/UDP,1169,TRIPWIRE
+TCP,1178,SKK (kanji input)
+TCP/UDP,1180,Millicent Client Proxy
+TCP/UDP,1188,HP Web Admin
+TCP/UDP,1200,SCOL
+TCP/UDP,1201,Nucleus Sand
+TCP/UDP,1202,caiccipc
+TCP/UDP,1203,License Validation
+TCP/UDP,1204,Log Request Listener
+TCP/UDP,1205,Accord-MGC
+TCP/UDP,1206,Anthony Data
+TCP/UDP,1207,MetaSage
+TCP/UDP,1208,SEAGULL AIS
+TCP/UDP,1209,IPCD3
+TCP/UDP,1210,EOSS
+TCP/UDP,1211,Groove DPP
+TCP/UDP,1212,lupa
+TCP/UDP,1213,MPC LIFENET
+TCP/UDP,1214,KAZAA (Morpheus)
+TCP/UDP,1215,scanSTAT 1.0
+TCP/UDP,1216,ETEBAC 5
+TCP/UDP,1217,HPSS-NDAPI
+TCP/UDP,1218,AeroFlight-ADs
+TCP/UDP,1219,AeroFlight-Ret
+TCP/UDP,1220,QT SERVER ADMIN
+TCP/UDP,1221,SweetWARE Apps
+TCP/UDP,1222,SNI R&D network
+TCP/UDP,1223,TGP
+TCP/UDP,1224,VPNz
+TCP/UDP,1225,SLINKYSEARCH
+TCP/UDP,1226,STGXFWS
+TCP/UDP,1227,DNS2Go
+TCP/UDP,1228,FLORENCE
+TCP/UDP,1229,Novell ZFS
+TCP/UDP,1234,W32.Beagle.Y trojan / Infoseek Search Agent
+TCP/UDP,1239,NMSD
+TCP,1241,Nessus Daemon / remote message service
+TCP,1243,SubSeven (Windows Trojan)
+TCP,1245,Subseven backdoor remote access tool
+TCP/UDP,1248,hermes
+TCP,1270,Microsoft Operations Manager MOM-Encrypted
+TCP/UDP,1300,H323 Host Call Secure
+TCP/UDP,1310,Husky
+TCP/UDP,1311,RxMon
+TCP/UDP,1312,STI Envision
+TCP/UDP,1313,BMC_PATROLDB
+TCP/UDP,1314,Photoscript Distributed Printing System
+TCP/UDP,1319,Panja-ICSP
+TCP/UDP,1320,Panja-AXBNET
+TCP/UDP,1321,PIP
+TCP/UDP,1335,Digital Notary Protocol
+TCP/UDP,1345,VPJP
+TCP/UDP,1346,Alta Analytics License Manager
+TCP/UDP,1347,multi media conferencing
+TCP/UDP,1348,multi media conferencing
+TCP/UDP,1349,Registration Network Protocol
+TCP/UDP,1350,Registration Network Protocol
+TCP/UDP,1351,Digital Tool Works (MIT)
+TCP/UDP,1352,Lotus Notes
+TCP/UDP,1353,Relief Consulting
+TCP/UDP,1354,RightBrain Software
+TCP/UDP,1355,Intuitive Edge
+TCP/UDP,1356,CuillaMartin Company
+TCP/UDP,1357,Electronic PegBoard
+TCP/UDP,1358,CONNLCLI
+TCP/UDP,1359,FTSRV
+TCP/UDP,1360,MIMER
+TCP/UDP,1361,LinX
+TCP/UDP,1362,TimeFlies
+TCP/UDP,1363,Network DataMover Requester
+TCP/UDP,1364,Network DataMover Server
+TCP/UDP,1365,Network Software Associates
+TCP/UDP,1366,Novell NetWare Comm Service Platform
+TCP/UDP,1367,DCS
+TCP/UDP,1368,ScreenCast
+TCP/UDP,1369,GlobalView to Unix Shell
+TCP/UDP,1370,Unix Shell to GlobalView
+TCP/UDP,1371,Fujitsu Config Protocol
+TCP/UDP,1372,Fujitsu Config Protocol
+TCP/UDP,1373,Chromagrafx
+TCP/UDP,1374,EPI Software Systems
+TCP/UDP,1375,Bytex
+TCP/UDP,1376,IBM Person to Person Software
+TCP/UDP,1377,Cichlid License Manager
+TCP/UDP,1378,Elan License Manager
+TCP/UDP,1379,Integrity Solutions
+TCP/UDP,1380,Telesis Network License Manager
+TCP/UDP,1381,Apple Network License Manager
+TCP/UDP,1382,udt_os
+TCP/UDP,1383,GW Hannaway Network License Manager
+TCP/UDP,1384,Objective Solutions License Manager
+TCP/UDP,1385,Atex Publishing License Manager
+TCP/UDP,1386,CheckSum License Manager
+TCP/UDP,1387,Computer Aided Design Software Inc LM
+TCP/UDP,1388,Objective Solutions DataBase Cache
+TCP/UDP,1389,Document Manager
+TCP/UDP,1390,Storage Controller
+TCP/UDP,1391,Storage Access Server
+TCP/UDP,1392,Print Manager
+TCP/UDP,1393,Network Log Server
+TCP/UDP,1394,Network Log Client
+TCP/UDP,1395,PC Workstation Manager software
+TCP/UDP,1396,DVL Active Mail
+TCP/UDP,1397,Audio Active Mail
+TCP/UDP,1398,Video Active Mail
+TCP/UDP,1399,Cadkey License Manager
+TCP/UDP,1400,Cadkey Tablet Daemon
+TCP/UDP,1401,Goldleaf License Manager
+TCP/UDP,1402,Prospero Resource Manager
+TCP/UDP,1403,Prospero Resource Manager
+TCP/UDP,1404,Infinite Graphics License Manager
+TCP/UDP,1405,IBM Remote Execution Starter
+TCP/UDP,1406,NetLabs License Manager
+TCP/UDP,1407,DBSA License Manager
+TCP/UDP,1408,Sophia License Manager
+TCP/UDP,1409,Here License Manager
+TCP/UDP,1410,HiQ License Manager
+TCP/UDP,1411,AudioFile
+TCP/UDP,1412,InnoSys
+TCP/UDP,1413,Innosys-ACL
+TCP/UDP,1414,IBM MQSeries
+TCP/UDP,1415,DBStar
+TCP/UDP,1416,Novell LU6.2
+TCP/UDP,1417,Timbuktu Service 1 Port
+TCP/UDP,1418,Timbuktu Service 2 Port
+TCP/UDP,1419,Timbuktu Service 3 Port
+TCP/UDP,1420,Timbuktu Service 4 Port
+TCP/UDP,1421,Gandalf License Manager
+TCP/UDP,1422,Autodesk License Manager
+TCP/UDP,1423,Essbase Arbor Software
+TCP/UDP,1424,Hybrid Encryption Protocol
+TCP/UDP,1425,Zion Software License Manager
+TCP/UDP,1426,Satellite-data Acquisition System 1
+TCP/UDP,1427,mloadd monitoring tool
+TCP/UDP,1428,Informatik License Manager
+TCP/UDP,1429,Hypercom NMS
+TCP/UDP,1430,Hypercom TPDU
+TCP/UDP,1431,Reverse Gossip Transport
+TCP/UDP,1432,Blueberry Software License Manager
+TCP/UDP,1433,Microsoft-SQL-Server
+TCP/UDP,1434,Microsoft-SQL-Monitor
+TCP/UDP,1435,IBM CICS
+TCP/UDP,1436,Satellite-data Acquisition System 2
+TCP/UDP,1437,Tabula
+TCP/UDP,1438,Eicon Security Agent/Server
+TCP/UDP,1439,Eicon X25/SNA Gateway
+TCP/UDP,1440,Eicon Service Location Protocol
+TCP/UDP,1441,Cadis License Management
+TCP/UDP,1442,Cadis License Management
+TCP/UDP,1443,Integrated Engineering Software
+TCP/UDP,1444,Marcam License Management
+TCP/UDP,1445,Proxima License Manager
+TCP/UDP,1446,Optical Research Associates License Manager
+TCP/UDP,1447,Applied Parallel Research LM
+TCP/UDP,1448,OpenConnect License Manager
+TCP/UDP,1449,PEport
+TCP/UDP,1450,Tandem Distributed Workbench Facility
+TCP/UDP,1451,IBM Information Management
+TCP/UDP,1452,GTE Government Systems License Man
+TCP/UDP,1453,Genie License Manager
+TCP/UDP,1454,interHDL License Manager
+TCP/UDP,1455,ESL License Manager
+TCP/UDP,1456,DCA
+TCP/UDP,1457,Valisys License Manager
+TCP/UDP,1458,Nichols Research Corp.
+TCP/UDP,1459,Proshare Notebook Application
+TCP/UDP,1460,Proshare Notebook Application
+TCP/UDP,1461,IBM Wireless LAN
+TCP/UDP,1462,World License Manager
+TCP/UDP,1463,Nucleus
+TCP/UDP,1464,MSL License Manager
+TCP/UDP,1465,Pipes Platform
+TCP/UDP,1466,Ocean Software License Manager
+TCP/UDP,1467,CSDMBASE
+TCP/UDP,1468,CSDM
+TCP/UDP,1469,Active Analysis Limited License Manager
+TCP/UDP,1470,Universal Analytics
+TCP/UDP,1471,csdmbase
+TCP/UDP,1472,csdm
+TCP/UDP,1473,OpenMath
+TCP/UDP,1474,Telefinder
+TCP/UDP,1475,Taligent License Manager
+TCP/UDP,1476,clvm-cfg
+TCP/UDP,1477,ms-sna-server
+TCP/UDP,1478,ms-sna-base
+TCP/UDP,1479,dberegister
+TCP/UDP,1480,PacerForum
+TCP/UDP,1481,AIRS
+TCP/UDP,1482,Miteksys License Manager
+TCP/UDP,1483,AFS License Manager
+TCP/UDP,1484,Confluent License Manager
+TCP/UDP,1485,LANSource
+TCP/UDP,1486,nms_topo_serv
+TCP/UDP,1487,LocalInfoSrvr
+TCP/UDP,1488,DocStor
+TCP/UDP,1489,dmdocbroker
+TCP/UDP,1490,insitu-conf
+TCP/UDP,1491,anynetgateway
+TCP/UDP,1492,stone-design-1
+TCP/UDP,1493,netmap_lm
+TCP/UDP,1494,Citrix/ica
+TCP/UDP,1495,cvc
+TCP/UDP,1496,liberty-lm
+TCP/UDP,1497,rfx-lm
+TCP/UDP,1498,Sybase SQL Any
+TCP/UDP,1499,Federico Heinz Consultora
+TCP/UDP,1500,VLSI License Manager
+TCP/UDP,1501,Satellite-data Acquisition System 3
+TCP/UDP,1502,Shiva
+TCP/UDP,1503,MS Netmeeting / T.120 / Databeam
+TCP/UDP,1504,EVB Software Engineering License Manager
+TCP/UDP,1505,Funk Software Inc.
+TCP/UDP,1506,Universal Time daemon (utcd)
+TCP/UDP,1507,symplex
+TCP/UDP,1508,diagmond
+TCP/UDP,1509,Robcad Ltd. License Manager
+TCP/UDP,1510,Midland Valley Exploration Ltd. Lic. Man.
+TCP/UDP,1511,3l-l1
+TCP/UDP,1512,Microsoft's Windows Internet Name Service
+TCP/UDP,1513,Fujitsu Systems Business of America Inc
+TCP/UDP,1514,Fujitsu Systems Business of America Inc
+TCP/UDP,1515,ifor-protocol
+TCP/UDP,1516,Virtual Places Audio data
+TCP/UDP,1517,Virtual Places Audio control
+TCP/UDP,1518,Virtual Places Video data
+TCP/UDP,1519,Virtual Places Video control
+TCP/UDP,1520,atm zip office
+TCP/UDP,1521,Oracle8i Listener / nCube License Manager
+TCP/UDP,1522,Ricardo North America License Manager
+TCP/UDP,1523,cichild
+TCP/UDP,1524,dtspcd / ingres
+TCP/UDP,1525,Oracle / Prospero Directory Service non-priv
+TCP/UDP,1526,Prospero Data Access Prot non-priv
+TCP/UDP,1527,oracle
+TCP/UDP,1528,micautoreg
+TCP/UDP,1529,oracle
+TCP/UDP,1530,Oracle ExtProc (PLSExtProc) / rap-service
+TCP/UDP,1531,rap-listen
+TCP/UDP,1532,miroconnect
+TCP/UDP,1533,Virtual Places Software
+TCP/UDP,1534,micromuse-lm
+TCP/UDP,1535,ampr-info
+TCP/UDP,1536,ampr-inter
+TCP/UDP,1537,isi-lm
+TCP/UDP,1538,3ds-lm
+TCP/UDP,1539,Intellistor License Manager
+TCP/UDP,1540,rds
+TCP/UDP,1541,rds2
+TCP/UDP,1542,gridgen-elmd
+TCP/UDP,1543,simba-cs
+TCP/UDP,1544,aspeclmd
+TCP/UDP,1545,vistium-share
+TCP/UDP,1546,abbaccuray
+TCP/UDP,1547,laplink
+TCP/UDP,1548,Axon License Manager
+TCP/UDP,1549,Shiva Hose
+TCP/UDP,1550,Image Storage license manager 3M Company
+TCP/UDP,1551,HECMTL-DB
+TCP/UDP,1552,pciarray
+TCP/UDP,1553,sna-cs
+TCP/UDP,1554,CACI Products Company License Manager
+TCP/UDP,1555,livelan
+TCP/UDP,1556,AshWin CI Tecnologies
+TCP/UDP,1557,ArborText License Manager
+TCP/UDP,1558,xingmpeg
+TCP/UDP,1559,web2host
+TCP/UDP,1560,asci-val
+TCP/UDP,1561,facilityview
+TCP/UDP,1562,pconnectmgr
+TCP/UDP,1563,Cadabra License Manager
+TCP/UDP,1564,Pay-Per-View
+TCP/UDP,1565,WinDD
+TCP/UDP,1566,CORELVIDEO
+TCP/UDP,1567,jlicelmd
+TCP/UDP,1568,tsspmap
+TCP/UDP,1569,ets
+TCP/UDP,1570,orbixd
+TCP/UDP,1571,Oracle Remote Data Base
+TCP/UDP,1572,Chipcom License Manager
+TCP/UDP,1573,itscomm-ns
+TCP/UDP,1574,mvel-lm
+TCP/UDP,1575,oraclenames
+TCP/UDP,1576,moldflow-lm
+TCP/UDP,1577,hypercube-lm
+TCP/UDP,1578,Jacobus License Manager
+TCP/UDP,1579,ioc-sea-lm
+TCP/UDP,1580,tn-tl-r1
+TCP/UDP,1581,MIL-2045-47001
+TCP/UDP,1582,MSIMS
+TCP/UDP,1583,simbaexpress
+TCP/UDP,1584,tn-tl-fd2
+TCP/UDP,1585,intv
+TCP/UDP,1586,ibm-abtact
+TCP/UDP,1587,pra_elmd
+TCP/UDP,1588,triquest-lm
+TCP/UDP,1589,VQP
+TCP/UDP,1590,gemini-lm
+TCP/UDP,1591,ncpm-pm
+TCP/UDP,1592,commonspace
+TCP/UDP,1593,mainsoft-lm
+TCP/UDP,1594,sixtrak
+TCP/UDP,1595,radio
+TCP/UDP,1596,radio-sm
+TCP/UDP,1597,orbplus-iiop
+TCP/UDP,1598,picknfs
+TCP/UDP,1599,simbaservices
+TCP/UDP,1600,Bofra-A worm / issd
+TCP/UDP,1601,aas
+TCP/UDP,1602,inspect
+TCP/UDP,1603,pickodbc
+TCP/UDP,1604,icabrowser
+TCP/UDP,1605,Salutation Manager (Salutation Protocol)
+TCP/UDP,1606,Salutation Manager (SLM-API)
+TCP/UDP,1607,stt
+TCP/UDP,1608,Smart Corp. License Manager
+TCP/UDP,1609,isysg-lm
+TCP/UDP,1610,taurus-wh
+TCP/UDP,1611,Inter Library Loan
+TCP/UDP,1612,NetBill Transaction Server
+TCP/UDP,1613,NetBill Key Repository
+TCP/UDP,1614,NetBill Credential Server
+TCP/UDP,1615,NetBill Authorization Server
+TCP/UDP,1616,NetBill Product Server
+TCP/UDP,1617,Nimrod Inter-Agent Communication
+TCP/UDP,1618,skytelnet
+TCP/UDP,1619,xs-openstorage
+TCP/UDP,1620,faxportwinport
+TCP/UDP,1621,softdataphone
+TCP/UDP,1622,ontime
+TCP/UDP,1623,jaleosnd
+TCP/UDP,1624,udp-sr-port
+TCP/UDP,1625,svs-omagent
+TCP/UDP,1626,Shockwave
+TCP/UDP,1627,T.128 Gateway
+TCP/UDP,1628,LonTalk normal
+TCP/UDP,1629,LonTalk urgent
+TCP/UDP,1630,Oracle Net8 Cman
+TCP/UDP,1631,Visit view
+TCP/UDP,1632,PAMMRATC
+TCP/UDP,1633,PAMMRPC
+TCP/UDP,1634,Log On America Probe
+TCP/UDP,1635,EDB Server 1
+TCP/UDP,1636,CableNet Control Protocol
+TCP/UDP,1637,CableNet Admin Protocol
+TCP/UDP,1638,Bofra-A worm / CableNet Info Protocol
+TCP/UDP,1639,cert-initiator
+TCP/UDP,1640,cert-responder
+TCP/UDP,1641,InVision
+TCP/UDP,1642,isis-am
+TCP/UDP,1643,isis-ambc
+TCP/UDP,1644,Satellite-data Acquisition System 4
+TCP/UDP,1645,datametrics
+TCP/UDP,1646,sa-msg-port
+TCP/UDP,1647,rsap
+TCP/UDP,1648,concurrent-lm
+TCP/UDP,1649,kermit
+TCP/UDP,1650,nkd
+TCP/UDP,1651,shiva_confsrvr
+TCP/UDP,1652,xnmp
+TCP/UDP,1653,alphatech-lm
+TCP/UDP,1654,stargatealerts
+TCP/UDP,1655,dec-mbadmin
+TCP/UDP,1656,dec-mbadmin-h
+TCP/UDP,1657,fujitsu-mmpdc
+TCP/UDP,1658,sixnetudr
+TCP/UDP,1659,Silicon Grail License Manager
+TCP/UDP,1660,skip-mc-gikreq
+TCP/UDP,1661,netview-aix-1
+TCP/UDP,1662,netview-aix-2
+TCP/UDP,1663,netview-aix-3
+TCP/UDP,1664,netview-aix-4
+TCP/UDP,1665,netview-aix-5
+TCP/UDP,1666,netview-aix-6
+TCP/UDP,1667,netview-aix-7
+TCP/UDP,1668,netview-aix-8
+TCP/UDP,1669,netview-aix-9
+TCP/UDP,1670,netview-aix-10
+TCP/UDP,1671,netview-aix-11
+TCP/UDP,1672,netview-aix-12
+TCP/UDP,1673,Intel Proshare Multicast
+TCP/UDP,1674,Intel Proshare Multicast
+TCP/UDP,1675,Pacific Data Products
+TCP/UDP,1676,netcomm1
+TCP/UDP,1677,groupwise
+TCP/UDP,1678,prolink
+TCP/UDP,1679,darcorp-lm
+TCP/UDP,1680,microcom-sbp
+TCP/UDP,1681,sd-elmd
+TCP/UDP,1682,lanyon-lantern
+TCP/UDP,1683,ncpm-hip
+TCP/UDP,1684,SnareSecure
+TCP/UDP,1685,n2nremote
+TCP/UDP,1686,cvmon
+TCP/UDP,1687,nsjtp-ctrl
+TCP/UDP,1688,nsjtp-data
+TCP/UDP,1689,firefox
+TCP/UDP,1690,ng-umds
+TCP/UDP,1691,empire-empuma
+TCP/UDP,1692,sstsys-lm
+TCP/UDP,1693,rrirtr
+TCP/UDP,1694,rrimwm
+TCP/UDP,1695,rrilwm
+TCP/UDP,1696,rrifmm
+TCP/UDP,1697,rrisat
+TCP/UDP,1698,RSVP-ENCAPSULATION-1
+TCP/UDP,1699,RSVP-ENCAPSULATION-2
+TCP/UDP,1700,mps-raft
+TCP/UDP,1701,l2tp / AOL
+TCP/UDP,1702,deskshare
+TCP/UDP,1703,hb-engine
+TCP/UDP,1704,bcs-broker
+TCP/UDP,1705,slingshot
+TCP/UDP,1706,jetform
+TCP/UDP,1707,vdmplay
+TCP/UDP,1708,gat-lmd
+TCP/UDP,1709,centra
+TCP/UDP,1710,impera
+TCP/UDP,1711,pptconference
+TCP/UDP,1712,resource monitoring service
+TCP/UDP,1713,ConferenceTalk
+TCP/UDP,1714,sesi-lm
+TCP/UDP,1715,houdini-lm
+TCP/UDP,1716,xmsg
+TCP/UDP,1717,fj-hdnet
+TCP/UDP,1718,h323gatedisc
+TCP/UDP,1719,h323gatestat
+TCP/UDP,1720,h323hostcall
+TCP/UDP,1721,caicci
+TCP/UDP,1722,HKS License Manager
+TCP/UDP,1723,pptp
+TCP/UDP,1724,csbphonemaster
+TCP/UDP,1725,iden-ralp
+TCP/UDP,1726,IBERIAGAMES
+TCP/UDP,1727,winddx
+TCP/UDP,1728,TELINDUS
+TCP/UDP,1729,CityNL License Management
+TCP/UDP,1730,roketz
+TCP/UDP,1731,MS Netmeeting / Audio call control / MSICCP
+TCP/UDP,1732,proxim
+TCP/UDP,1733,SIMS - SIIPAT Protocol for Alarm Transmission
+TCP/UDP,1734,Camber Corporation License Management
+TCP/UDP,1735,PrivateChat
+TCP/UDP,1736,street-stream
+TCP/UDP,1737,ultimad
+TCP/UDP,1738,GameGen1
+TCP/UDP,1739,webaccess
+TCP/UDP,1740,encore
+TCP/UDP,1741,cisco-net-mgmt
+TCP/UDP,1742,3Com-nsd
+TCP/UDP,1743,Cinema Graphics License Manager
+TCP/UDP,1744,ncpm-ft
+TCP/UDP,1745,ISA Server proxy autoconfig / Remote Winsock
+TCP/UDP,1746,ftrapid-1
+TCP/UDP,1747,ftrapid-2
+TCP/UDP,1748,oracle-em1
+TCP/UDP,1749,aspen-services
+TCP/UDP,1750,Simple Socket Library's PortMaster
+TCP/UDP,1751,SwiftNet
+TCP/UDP,1752,Leap of Faith Research License Manager
+TCP/UDP,1753,Translogic License Manager
+TCP/UDP,1754,oracle-em2
+TCP/UDP,1755,Microsoft Streaming Server
+TCP/UDP,1756,capfast-lmd
+TCP/UDP,1757,cnhrp
+TCP/UDP,1758,tftp-mcast
+TCP/UDP,1759,SPSS License Manager
+TCP/UDP,1760,www-ldap-gw
+TCP/UDP,1761,cft-0
+TCP/UDP,1762,cft-1
+TCP/UDP,1763,cft-2
+TCP/UDP,1764,cft-3
+TCP/UDP,1765,cft-4
+TCP/UDP,1766,cft-5
+TCP/UDP,1767,cft-6
+TCP/UDP,1768,cft-7
+TCP/UDP,1769,bmc-net-adm
+TCP/UDP,1770,bmc-net-svc
+TCP/UDP,1771,vaultbase
+TCP/UDP,1772,EssWeb Gateway
+TCP/UDP,1773,KMSControl
+TCP/UDP,1774,global-dtserv
+TCP/UDP,1776,Federal Emergency Management Information System
+TCP/UDP,1777,powerguardian
+TCP/UDP,1778,prodigy-internet
+TCP/UDP,1779,pharmasoft
+TCP/UDP,1780,dpkeyserv
+TCP/UDP,1781,answersoft-lm
+TCP/UDP,1782,HP JetSend
+TCP/UDP,1783,Port 04/14/00 fujitsu.co.jp
+TCP/UDP,1784,Finle License Manager
+TCP/UDP,1785,Wind River Systems License Manager
+TCP/UDP,1786,funk-logger
+TCP/UDP,1787,funk-license
+TCP/UDP,1788,psmond
+TCP/UDP,1789,hello
+TCP/UDP,1790,Narrative Media Streaming Protocol
+TCP/UDP,1791,EA1
+TCP/UDP,1792,ibm-dt-2
+TCP/UDP,1793,rsc-robot
+TCP/UDP,1794,cera-bcm
+TCP/UDP,1795,dpi-proxy
+TCP/UDP,1796,Vocaltec Server Administration
+TCP/UDP,1797,UMA
+TCP/UDP,1798,Event Transfer Protocol
+TCP/UDP,1799,NETRISK
+TCP/UDP,1800,ANSYS-License manager
+TCP/UDP,1801,Microsoft Message Queuing
+TCP/UDP,1802,ConComp1
+TCP/UDP,1803,HP-HCIP-GWY
+TCP/UDP,1804,ENL
+TCP/UDP,1805,ENL-Name
+TCP/UDP,1806,Musiconline
+TCP/UDP,1807,Fujitsu Hot Standby Protocol
+TCP/UDP,1808,Oracle-VP2
+TCP/UDP,1809,Oracle-VP1
+TCP/UDP,1810,Jerand License Manager
+TCP/UDP,1811,Scientia-SDB
+TCP/UDP,1812,RADIUS
+TCP/UDP,1813,RADIUS Accounting / HackTool.SkSocket
+TCP/UDP,1814,TDP Suite
+TCP/UDP,1815,MMPFT
+TCP/UDP,1816,HARP
+TCP/UDP,1817,RKB-OSCS
+TCP/UDP,1818,Enhanced Trivial File Transfer Protocol
+TCP/UDP,1819,Plato License Manager
+TCP/UDP,1820,mcagent
+TCP/UDP,1821,donnyworld
+TCP/UDP,1822,es-elmd
+TCP/UDP,1823,Unisys Natural Language License Manager
+TCP/UDP,1824,metrics-pas
+TCP/UDP,1825,DirecPC Video
+TCP/UDP,1826,ARDT
+TCP/UDP,1827,ASI
+TCP/UDP,1828,itm-mcell-u
+TCP/UDP,1829,Optika eMedia
+TCP/UDP,1830,Oracle Net8 CMan Admin
+TCP/UDP,1831,Myrtle
+TCP/UDP,1832,ThoughtTreasure
+TCP/UDP,1833,udpradio
+TCP/UDP,1834,ARDUS Unicast
+TCP/UDP,1835,ARDUS Multicast
+TCP/UDP,1836,ste-smsc
+TCP/UDP,1837,csoft1
+TCP/UDP,1838,TALNET
+TCP/UDP,1839,netopia-vo1
+TCP/UDP,1840,netopia-vo2
+TCP/UDP,1841,netopia-vo3
+TCP/UDP,1842,netopia-vo4
+TCP/UDP,1843,netopia-vo5
+TCP/UDP,1844,DirecPC-DLL
+TCP/UDP,1850,GSI
+TCP/UDP,1851,ctcd
+TCP/UDP,1860,SunSCALAR Services
+TCP/UDP,1861,LeCroy VICP
+TCP/UDP,1862,techra-server
+TCP/UDP,1863,MSN Messenger
+TCP/UDP,1864,Paradym 31 Port
+TCP/UDP,1865,ENTP
+TCP/UDP,1870,SunSCALAR DNS Service
+TCP/UDP,1871,Cano Central 0
+TCP/UDP,1872,Cano Central 1
+TCP/UDP,1873,Fjmpjps
+TCP/UDP,1874,Fjswapsnp
+TCP/UDP,1881,IBM MQSeries
+TCP/UDP,1895,Vista 4GL
+TCP/UDP,1899,MC2Studios
+TCP/UDP,1900,SSDP
+TCP/UDP,1901,Fujitsu ICL Terminal Emulator Program A
+TCP/UDP,1902,Fujitsu ICL Terminal Emulator Program B
+TCP/UDP,1903,Local Link Name Resolution
+TCP/UDP,1904,Fujitsu ICL Terminal Emulator Program C
+TCP/UDP,1905,Secure UP.Link Gateway Protocol
+TCP/UDP,1906,TPortMapperReq
+TCP/UDP,1907,IntraSTAR
+TCP/UDP,1908,Dawn
+TCP/UDP,1909,Global World Link
+TCP/UDP,1910,ultrabac
+TCP/UDP,1911,Starlight Networks Multimedia Transport Protocol
+TCP/UDP,1912,rhp-iibp
+TCP/UDP,1913,armadp
+TCP/UDP,1914,Elm-Momentum
+TCP/UDP,1915,FACELINK
+TCP/UDP,1916,Persoft Persona
+TCP/UDP,1917,nOAgent
+TCP/UDP,1918,Candle Directory Service - NDS
+TCP/UDP,1919,Candle Directory Service - DCH
+TCP/UDP,1920,Candle Directory Service - FERRET
+TCP/UDP,1921,NoAdmin
+TCP/UDP,1922,Tapestry
+TCP/UDP,1923,SPICE
+TCP/UDP,1924,XIIP
+TCP/UDP,1930,Drive AppServer
+TCP/UDP,1931,AMD SCHED
+TCP/UDP,1944,close-combat
+TCP/UDP,1945,dialogic-elmd
+TCP/UDP,1946,tekpls
+TCP/UDP,1947,hlserver
+TCP/UDP,1948,eye2eye
+TCP/UDP,1949,ISMA Easdaq Live
+TCP/UDP,1950,ISMA Easdaq Test
+TCP/UDP,1951,bcs-lmserver
+TCP/UDP,1952,mpnjsc
+TCP/UDP,1953,Rapid Base
+TCP/UDP,1961,BTS APPSERVER
+TCP/UDP,1962,BIAP-MP
+TCP/UDP,1963,WebMachine
+TCP/UDP,1964,SOLID E ENGINE
+TCP/UDP,1965,Tivoli NPM
+TCP/UDP,1966,Slush
+TCP/UDP,1967,SNS Quote
+TCP/UDP,1972,Cache
+TCP/UDP,1973,Data Link Switching Remote Access Protocol
+TCP/UDP,1974,DRP
+TCP/UDP,1975,TCO Flash Agent
+TCP/UDP,1976,TCO Reg Agent
+TCP/UDP,1977,TCO Address Book
+TCP/UDP,1978,UniSQL
+TCP/UDP,1979,UniSQL Java
+TCP/UDP,1984,BB
+TCP/UDP,1985,Hot Standby Router Protocol
+TCP/UDP,1986,cisco license management
+TCP/UDP,1987,cisco RSRB Priority 1 port
+TCP/UDP,1988,cisco RSRB Priority 2 port
+TCP/UDP,1989,MHSnet system
+TCP/UDP,1990,cisco STUN Priority 1 port
+TCP/UDP,1991,cisco STUN Priority 2 port
+TCP/UDP,1992,IPsendmsg
+TCP/UDP,1993,cisco SNMP TCP port
+TCP/UDP,1994,cisco serial tunnel port
+TCP/UDP,1995,cisco perf port
+TCP/UDP,1996,cisco Remote SRB port
+TCP/UDP,1997,cisco Gateway Discovery Protocol
+TCP/UDP,1998,cisco X.25 service (XOT)
+TCP/UDP,1999,cisco identification port / SubSeven (Windows Trojan) / Backdoor (Windows Trojan)
+TCP/UDP,2000,Remotely Anywhere / VIA NET.WORKS PostOffice Plus
+TCP/UDP,2001,Cisco mgmt / Remotely Anywhere
+TCP/UDP,2002,globe
+TCP,2003,GNU finger
+TCP/UDP,2004,mailbox
+TCP/UDP,2005,encrypted symmetric telnet/login
+TCP/UDP,2006,invokator
+TCP/UDP,2007,dectalk
+TCP/UDP,2008,conf
+TCP/UDP,2009,news
+TCP/UDP,2010,search
+TCP/UDP,2011,raid
+TCP/UDP,2012,ttyinfo
+TCP/UDP,2013,raid-am
+TCP/UDP,2014,troff
+TCP/UDP,2015,cypress
+TCP/UDP,2016,bootserver
+TCP/UDP,2017,cypress-stat
+TCP/UDP,2018,terminaldb
+TCP/UDP,2019,whosockami
+TCP/UDP,2020,xinupageserver
+TCP/UDP,2021,servexec
+TCP/UDP,2022,down
+TCP/UDP,2023,xinuexpansion3
+TCP/UDP,2024,xinuexpansion4
+TCP/UDP,2025,ellpack
+TCP/UDP,2026,scrabble
+TCP/UDP,2027,shadowserver
+TCP/UDP,2028,submitserver
+TCP/UDP,2030,device2
+TCP/UDP,2032,blackboard
+TCP/UDP,2033,glogger
+TCP/UDP,2034,scoremgr
+TCP/UDP,2035,imsldoc
+TCP/UDP,2038,objectmanager
+TCP/UDP,2040,lam
+TCP/UDP,2041,W32.Korgo Worm / interbase
+TCP/UDP,2042,isis
+TCP/UDP,2043,isis-bcast
+TCP/UDP,2044,rimsl
+TCP/UDP,2045,cdfunc
+TCP/UDP,2046,sdfunc
+TCP/UDP,2047,dls
+TCP/UDP,2048,dls-monitor
+TCP/UDP,2049,Network File System - Sun Microsystems
+TCP,2053,Kerberos de-multiplexer
+TCP,2054,distrib-net
+TCP/UDP,2065,Data Link Switch Read Port Number
+TCP/UDP,2067,Data Link Switch Write Port Number
+TCP,2080,Wingate
+TCP/UDP,2090,Load Report Protocol
+TCP/UDP,2091,PRP
+TCP/UDP,2092,Descent 3
+TCP/UDP,2093,NBX CC
+TCP/UDP,2094,NBX AU
+TCP/UDP,2095,NBX SER
+TCP/UDP,2096,NBX DIR
+TCP/UDP,2097,Jet Form Preview
+TCP/UDP,2098,Dialog Port
+TCP/UDP,2099,H.225.0 Annex G
+TCP/UDP,2100,amiganetfs
+TCP/UDP,2101,Microsoft Message Queuing / rtcm-sc104
+TCP/UDP,2102,Zephyr server
+TCP/UDP,2103,Microsoft Message Queuing RPC / Zephyr serv-hm connection
+TCP/UDP,2104,Zephyr hostmanager
+TCP/UDP,2105,Microsoft Message Queuing RPC / MiniPay
+TCP/UDP,2106,MZAP
+TCP/UDP,2107,Microsoft Message Queuing Management / BinTec Admin
+TCP/UDP,2108,Comcam
+TCP/UDP,2109,Ergolight
+TCP/UDP,2110,UMSP
+TCP/UDP,2111,DSATP
+TCP/UDP,2112,Idonix MetaNet
+TCP/UDP,2113,HSL StoRM
+TCP/UDP,2114,NEWHEIGHTS
+TCP/UDP,2115,KDM / Bugs (Windows Trojan)
+TCP/UDP,2116,CCOWCMR
+TCP/UDP,2117,MENTACLIENT
+TCP/UDP,2118,MENTASERVER
+TCP/UDP,2119,GSIGATEKEEPER
+TCP/UDP,2120,Quick Eagle Networks CP
+TCP/UDP,2121,CCProxy FTP / SCIENTIA-SSDB
+TCP/UDP,2122,CauPC Remote Control
+TCP/UDP,2123,GTP-Control Plane (3GPP)
+TCP/UDP,2124,ELATELINK
+TCP/UDP,2125,LOCKSTEP
+TCP/UDP,2126,PktCable-COPS
+TCP/UDP,2127,INDEX-PC-WB
+TCP/UDP,2128,Net Steward Control
+TCP/UDP,2129,cs-live.com
+TCP/UDP,2130,SWC-XDS
+TCP/UDP,2131,Avantageb2b
+TCP/UDP,2132,AVAIL-EPMAP
+TCP/UDP,2133,ZYMED-ZPP
+TCP/UDP,2134,AVENUE
+TCP/UDP,2135,Grid Resource Information Server
+TCP/UDP,2136,APPWORXSRV
+TCP/UDP,2137,CONNECT
+TCP/UDP,2138,UNBIND-CLUSTER
+TCP/UDP,2139,IAS-AUTH
+TCP/UDP,2140,IAS-REG
+TCP/UDP,2141,IAS-ADMIND
+TCP/UDP,2142,TDM-OVER-IP
+TCP/UDP,2143,Live Vault Job Control
+TCP/UDP,2144,Live Vault Fast Object Transfer
+TCP/UDP,2145,Live Vault Remote Diagnostic Console Support
+TCP/UDP,2146,Live Vault Admin Event Notification
+TCP/UDP,2147,Live Vault Authentication
+TCP/UDP,2148,VERITAS UNIVERSAL COMMUNICATION LAYER
+TCP/UDP,2149,ACPTSYS
+TCP/UDP,2150,DYNAMIC3D
+TCP/UDP,2151,DOCENT
+TCP/UDP,2152,GTP-User Plane (3GPP)
+TCP/UDP,2165,X-Bone API
+TCP/UDP,2166,IWSERVER
+TCP/UDP,2180,Millicent Vendor Gateway Server
+TCP/UDP,2181,eforward
+TCP/UDP,2190,TiVoConnect Beacon
+TCP/UDP,2191,TvBus Messaging
+TCP/UDP,2200,ICI
+TCP/UDP,2201,Advanced Training System Program
+TCP/UDP,2202,Int. Multimedia Teleconferencing Cosortium
+TCP/UDP,2213,Kali
+TCP/UDP,2220,Ganymede
+TCP/UDP,2221,Rockwell CSP1
+TCP/UDP,2222,Rockwell CSP2
+TCP/UDP,2223,Rockwell CSP3
+TCP/UDP,2232,IVS Video default
+TCP/UDP,2233,INFOCRYPT
+TCP/UDP,2234,DirectPlay
+TCP/UDP,2235,Sercomm-WLink
+TCP/UDP,2236,Nani
+TCP/UDP,2237,Optech Port1 License Manager
+TCP/UDP,2238,AVIVA SNA SERVER
+TCP/UDP,2239,Image Query
+TCP/UDP,2240,RECIPe
+TCP/UDP,2241,IVS Daemon
+TCP/UDP,2242,Folio Remote Server
+TCP/UDP,2243,Magicom Protocol
+TCP/UDP,2244,NMS Server
+TCP/UDP,2245,HaO
+TCP/UDP,2279,xmquery
+TCP/UDP,2280,LNVPOLLER
+TCP/UDP,2281,LNVCONSOLE
+TCP/UDP,2282,LNVALARM
+TCP/UDP,2283,Dumaru.Y (Windows trojan) / LNVSTATUS
+TCP/UDP,2284,LNVMAPS
+TCP/UDP,2285,LNVMAILMON
+TCP/UDP,2286,NAS-Metering
+TCP/UDP,2287,DNA
+TCP/UDP,2288,NETML
+TCP/UDP,2294,Konshus License Manager (FLEX)
+TCP/UDP,2295,Advant License Manager
+TCP/UDP,2296,Theta License Manager (Rainbow)
+TCP/UDP,2297,D2K DataMover 1
+TCP/UDP,2298,D2K DataMover 2
+TCP/UDP,2299,PC Telecommute
+TCP/UDP,2300,CVMMON
+TCP/UDP,2301,Compaq HTTP
+TCP/UDP,2302,Bindery Support
+TCP/UDP,2303,Proxy Gateway
+TCP/UDP,2304,Attachmate UTS
+TCP/UDP,2305,MT ScaleServer
+TCP/UDP,2306,TAPPI BoxNet
+TCP/UDP,2307,pehelp
+TCP/UDP,2308,sdhelp
+TCP/UDP,2309,SD Server
+TCP/UDP,2310,SD Client
+TCP/UDP,2311,Message Service
+TCP/UDP,2313,IAPP (Inter Access Point Protocol)
+TCP/UDP,2314,CR WebSystems
+TCP/UDP,2315,Precise Sft.
+TCP/UDP,2316,SENT License Manager
+TCP/UDP,2317,Attachmate G32
+TCP/UDP,2318,Cadence Control
+TCP/UDP,2319,InfoLibria
+TCP/UDP,2320,Siebel NS
+TCP/UDP,2321,RDLAP over UDP
+TCP/UDP,2322,ofsd
+TCP/UDP,2323,3d-nfsd
+TCP/UDP,2324,Cosmocall
+TCP/UDP,2325,Design Space License Management
+TCP/UDP,2326,IDCP
+TCP/UDP,2327,xingcsm
+TCP/UDP,2328,Netrix SFTM
+TCP/UDP,2329,NVD
+TCP/UDP,2330,TSCCHAT
+TCP/UDP,2331,AGENTVIEW
+TCP/UDP,2332,RCC Host
+TCP/UDP,2333,SNAPP
+TCP/UDP,2334,ACE Client Auth
+TCP/UDP,2335,ACE Proxy
+TCP/UDP,2336,Apple UG Control
+TCP/UDP,2337,ideesrv
+TCP/UDP,2338,Norton Lambert
+TCP/UDP,2339,3Com WebView
+TCP/UDP,2340,WRS Registry
+TCP/UDP,2341,XIO Status
+TCP/UDP,2342,Seagate Manage Exec
+TCP/UDP,2343,nati logos
+TCP/UDP,2344,fcmsys
+TCP/UDP,2345,dbm
+TCP/UDP,2346,Game Connection Port
+TCP/UDP,2347,Game Announcement and Location
+TCP/UDP,2348,Information to query for game status
+TCP/UDP,2349,Diagnostics Port
+TCP/UDP,2350,psbserver
+TCP/UDP,2351,psrserver
+TCP/UDP,2352,pslserver
+TCP/UDP,2353,pspserver
+TCP/UDP,2354,psprserver
+TCP/UDP,2355,psdbserver
+TCP/UDP,2356,GXT License Managemant
+TCP/UDP,2357,UniHub Server
+TCP/UDP,2358,Futrix
+TCP/UDP,2359,FlukeServer
+TCP/UDP,2360,NexstorIndLtd
+TCP/UDP,2361,TL1
+TCP/UDP,2362,digiman
+TCP/UDP,2363,Media Central NFSD
+TCP/UDP,2364,OI-2000
+TCP/UDP,2365,dbref
+TCP/UDP,2366,qip-login
+TCP/UDP,2367,Service Control
+TCP/UDP,2368,OpenTable
+TCP/UDP,2369,ACS2000 DSP
+TCP/UDP,2370,L3-HBMon
+TCP/UDP,2381,Compaq HTTPS
+TCP/UDP,2382,Microsoft OLAP
+TCP/UDP,2383,Microsoft OLAP
+TCP/UDP,2384,SD-REQUEST
+TCP/UDP,2389,OpenView Session Mgr
+TCP/UDP,2390,RSMTP
+TCP/UDP,2391,3COM Net Management
+TCP/UDP,2392,Tactical Auth
+TCP/UDP,2393,MS OLAP 1
+TCP/UDP,2394,MS OLAP 2
+TCP/UDP,2395,LAN900 Remote
+TCP/UDP,2396,Wusage
+TCP/UDP,2397,NCL
+TCP/UDP,2398,Orbiter
+TCP/UDP,2399,FileMaker Inc. - Data Access Layer
+TCP/UDP,2400,OpEquus Server
+TCP/UDP,2401,cvspserver
+TCP/UDP,2402,TaskMaster 2000 Server
+TCP/UDP,2403,TaskMaster 2000 Web
+TCP/UDP,2404,IEC870-5-104
+TCP/UDP,2405,TRC Netpoll
+TCP/UDP,2406,JediServer
+TCP/UDP,2407,Orion
+TCP/UDP,2408,OptimaNet
+TCP/UDP,2409,SNS Protocol
+TCP/UDP,2410,VRTS Registry
+TCP/UDP,2411,Netwave AP Management
+TCP/UDP,2412,CDN
+TCP/UDP,2413,orion-rmi-reg
+TCP/UDP,2414,Interlingua
+TCP/UDP,2415,COMTEST
+TCP/UDP,2416,RMT Server
+TCP/UDP,2417,Composit Server
+TCP/UDP,2418,cas
+TCP/UDP,2419,Attachmate S2S
+TCP/UDP,2420,DSL Remote Management
+TCP/UDP,2421,G-Talk
+TCP/UDP,2422,CRMSBITS
+TCP/UDP,2423,RNRP
+TCP/UDP,2424,KOFAX-SVR
+TCP/UDP,2425,Fujitsu App Manager
+TCP/UDP,2426,Appliant TCP
+TCP/UDP,2427,Media Gateway Control Protocol Gateway
+TCP/UDP,2428,One Way Trip Time
+TCP/UDP,2429,FT-ROLE
+TCP/UDP,2430,venus
+TCP/UDP,2431,venus-se
+TCP/UDP,2432,codasrv
+TCP/UDP,2433,codasrv-se
+TCP/UDP,2434,pxc-epmap
+TCP/UDP,2435,OptiLogic
+TCP/UDP,2436,TOP/X
+TCP/UDP,2437,UniControl
+TCP/UDP,2438,MSP
+TCP/UDP,2439,SybaseDBSynch
+TCP/UDP,2440,Spearway Lockers
+TCP/UDP,2441,pvsw-inet
+TCP/UDP,2442,Netangel
+TCP/UDP,2443,PowerClient Central Storage Facility
+TCP/UDP,2444,BT PP2 Sectrans
+TCP/UDP,2445,DTN1
+TCP/UDP,2446,bues_service
+TCP/UDP,2447,OpenView NNM daemon
+TCP/UDP,2448,hpppsvr
+TCP/UDP,2449,RATL
+TCP/UDP,2450,netadmin
+TCP/UDP,2451,netchat
+TCP/UDP,2452,SnifferClient
+TCP/UDP,2453,madge-om
+TCP/UDP,2454,IndX-DDS
+TCP/UDP,2455,WAGO-IO-SYSTEM
+TCP/UDP,2456,altav-remmgt
+TCP/UDP,2457,Rapido_IP
+TCP/UDP,2458,griffin
+TCP/UDP,2459,Community
+TCP/UDP,2460,ms-theater
+TCP/UDP,2461,qadmifoper
+TCP/UDP,2462,qadmifevent
+TCP/UDP,2463,Symbios Raid
+TCP/UDP,2464,DirecPC SI
+TCP/UDP,2465,Load Balance Management
+TCP/UDP,2466,Load Balance Forwarding
+TCP/UDP,2467,High Criteria
+TCP/UDP,2468,qip_msgd
+TCP/UDP,2469,MTI-TCS-COMM
+TCP/UDP,2470,taskman port
+TCP/UDP,2471,SeaODBC
+TCP/UDP,2472,C3
+TCP/UDP,2473,Aker-cdp
+TCP/UDP,2474,Vital Analysis
+TCP/UDP,2475,ACE Server
+TCP/UDP,2476,ACE Server Propagation
+TCP/UDP,2477,SecurSight Certificate Valifation Service
+TCP/UDP,2478,SecurSight Authentication Server (SLL)
+TCP/UDP,2479,SecurSight Event Logging Server (SSL)
+TCP/UDP,2480,Lingwood's Detail
+TCP/UDP,2481,Oracle GIOP
+TCP/UDP,2482,Oracle GIOP SSL
+TCP/UDP,2483,Oracle TTC
+TCP/UDP,2484,Oracle TTC SSL
+TCP/UDP,2485,Net Objects1
+TCP/UDP,2486,Net Objects2
+TCP/UDP,2487,Policy Notice Service
+TCP/UDP,2488,Moy Corporation
+TCP/UDP,2489,TSILB
+TCP/UDP,2490,qip_qdhcp
+TCP/UDP,2491,Conclave CPP
+TCP/UDP,2492,GROOVE
+TCP/UDP,2493,Talarian MQS
+TCP/UDP,2494,BMC AR
+TCP/UDP,2495,Fast Remote Services
+TCP/UDP,2496,DIRGIS
+TCP/UDP,2497,Quad DB
+TCP/UDP,2498,ODN-CasTraq
+TCP/UDP,2499,UniControl
+TCP/UDP,2500,Resource Tracking system server
+TCP/UDP,2501,Resource Tracking system client
+TCP/UDP,2502,Kentrox Protocol
+TCP/UDP,2503,NMS-DPNSS
+TCP/UDP,2504,WLBS
+TCP/UDP,2505,torque-traffic
+TCP/UDP,2506,jbroker
+TCP/UDP,2507,spock
+TCP/UDP,2508,JDataStore
+TCP/UDP,2509,fjmpss
+TCP/UDP,2510,fjappmgrbulk
+TCP/UDP,2511,Metastorm
+TCP/UDP,2512,Citrix IMA
+TCP/UDP,2513,Citrix ADMIN
+TCP/UDP,2514,Facsys NTP
+TCP/UDP,2515,Facsys Router
+TCP/UDP,2516,Main Control
+TCP/UDP,2517,H.323 Annex E call signaling transport
+TCP/UDP,2518,Willy
+TCP/UDP,2519,globmsgsvc
+TCP/UDP,2520,pvsw
+TCP/UDP,2521,Adaptec Manager
+TCP/UDP,2522,WinDb
+TCP/UDP,2523,Qke LLC V.3
+TCP/UDP,2524,Optiwave License Management
+TCP/UDP,2525,MS V-Worlds
+TCP/UDP,2526,EMA License Manager
+TCP/UDP,2527,IQ Server
+TCP/UDP,2528,NCR CCL
+TCP/UDP,2529,UTS FTP
+TCP/UDP,2530,VR Commerce
+TCP/UDP,2531,ITO-E GUI
+TCP/UDP,2532,OVTOPMD
+TCP/UDP,2533,SnifferServer
+TCP/UDP,2534,Combox Web Access
+TCP/UDP,2535,W32.Beagle trojan / MADCAP
+TCP/UDP,2536,btpp2audctr1
+TCP/UDP,2537,Upgrade Protocol
+TCP/UDP,2538,vnwk-prapi
+TCP/UDP,2539,VSI Admin
+TCP/UDP,2540,LonWorks
+TCP/UDP,2541,LonWorks2
+TCP/UDP,2542,daVinci
+TCP/UDP,2543,REFTEK
+TCP/UDP,2544,Novell ZEN
+TCP/UDP,2545,sis-emt
+TCP/UDP,2546,vytalvaultbrtp
+TCP/UDP,2547,vytalvaultvsmp
+TCP/UDP,2548,vytalvaultpipe
+TCP/UDP,2549,IPASS
+TCP/UDP,2550,ADS
+TCP/UDP,2551,ISG UDA Server
+TCP/UDP,2552,Call Logging
+TCP/UDP,2553,efidiningport
+TCP/UDP,2554,VCnet-Link v10
+TCP/UDP,2555,Compaq WCP
+TCP/UDP,2556,W32.Beagle.N trojan / MADCAP / nicetec-nmsvc
+TCP/UDP,2557,nicetec-mgmt
+TCP/UDP,2558,PCLE Multi Media
+TCP/UDP,2559,LSTP
+TCP/UDP,2560,labrat
+TCP/UDP,2561,MosaixCC
+TCP/UDP,2562,Delibo
+TCP/UDP,2563,CTI Redwood
+TCP,2564,HP 3000 NS/VT block mode telnet
+TCP/UDP,2565,Coordinator Server
+TCP/UDP,2566,pcs-pcw
+TCP/UDP,2567,Cisco Line Protocol
+TCP/UDP,2568,SPAM TRAP
+TCP/UDP,2569,Sonus Call Signal
+TCP/UDP,2570,HS Port
+TCP/UDP,2571,CECSVC
+TCP/UDP,2572,IBP
+TCP/UDP,2573,Trust Establish
+TCP/UDP,2574,Blockade BPSP
+TCP/UDP,2575,HL7
+TCP/UDP,2576,TCL Pro Debugger
+TCP/UDP,2577,Scriptics Lsrvr
+TCP/UDP,2578,RVS ISDN DCP
+TCP/UDP,2579,mpfoncl
+TCP/UDP,2580,Tributary
+TCP/UDP,2581,ARGIS TE
+TCP/UDP,2582,ARGIS DS
+TCP/UDP,2583,MON / Wincrash2
+TCP/UDP,2584,cyaserv
+TCP/UDP,2585,NETX Server
+TCP/UDP,2586,NETX Agent
+TCP/UDP,2587,MASC
+TCP/UDP,2588,Privilege
+TCP/UDP,2589,quartus tcl
+TCP/UDP,2590,idotdist
+TCP/UDP,2591,Maytag Shuffle
+TCP/UDP,2592,netrek
+TCP/UDP,2593,MNS Mail Notice Service
+TCP/UDP,2594,Data Base Server
+TCP/UDP,2595,World Fusion 1
+TCP/UDP,2596,World Fusion 2
+TCP/UDP,2597,Homestead Glory
+TCP/UDP,2598,Citrix MA Client
+TCP/UDP,2599,Meridian Data
+TCP/UDP,2600,HPSTGMGR
+TCP/UDP,2601,discp client
+TCP/UDP,2602,discp server
+TCP/UDP,2603,Service Meter
+TCP/UDP,2604,NSC CCS
+TCP/UDP,2605,NSC POSA
+TCP/UDP,2606,Dell Netmon
+TCP/UDP,2607,Dell Connection
+TCP/UDP,2608,Wag Service
+TCP/UDP,2609,System Monitor
+TCP/UDP,2610,VersaTek
+TCP/UDP,2611,LIONHEAD
+TCP/UDP,2612,Qpasa Agent
+TCP/UDP,2613,SMNTUBootstrap
+TCP/UDP,2614,Never Offline
+TCP/UDP,2615,firepower
+TCP/UDP,2616,appswitch-emp
+TCP/UDP,2617,Clinical Context Managers
+TCP/UDP,2618,Priority E-Com
+TCP/UDP,2619,bruce
+TCP/UDP,2620,LPSRecommender
+TCP/UDP,2621,Miles Apart Jukebox Server
+TCP/UDP,2622,MetricaDBC
+TCP/UDP,2623,LMDP
+TCP/UDP,2624,Aria
+TCP/UDP,2625,Blwnkl Port
+TCP/UDP,2626,gbjd816
+TCP/UDP,2627,Moshe Beeri
+TCP/UDP,2628,DICT
+TCP/UDP,2629,Sitara Server
+TCP/UDP,2630,Sitara Management
+TCP/UDP,2631,Sitara Dir
+TCP/UDP,2632,IRdg Post
+TCP/UDP,2633,InterIntelli
+TCP/UDP,2634,PK Electronics
+TCP/UDP,2635,Back Burner
+TCP/UDP,2636,Solve
+TCP/UDP,2637,Import Document Service
+TCP/UDP,2638,Sybase Anywhere
+TCP/UDP,2639,AMInet
+TCP/UDP,2640,Sabbagh Associates Licence Manager
+TCP/UDP,2641,HDL Server
+TCP/UDP,2642,Tragic
+TCP/UDP,2643,GTE-SAMP
+TCP/UDP,2644,Travsoft IPX Tunnel
+TCP/UDP,2645,Novell IPX CMD
+TCP/UDP,2646,AND Licence Manager
+TCP/UDP,2647,SyncServer
+TCP/UDP,2648,Upsnotifyprot
+TCP/UDP,2649,VPSIPPORT
+TCP/UDP,2650,eristwoguns
+TCP/UDP,2651,EBInSite
+TCP/UDP,2652,InterPathPanel
+TCP/UDP,2653,Sonus
+TCP/UDP,2654,Corel VNC Admin
+TCP/UDP,2655,UNIX Nt Glue
+TCP/UDP,2656,Kana
+TCP/UDP,2657,SNS Dispatcher
+TCP/UDP,2658,SNS Admin
+TCP/UDP,2659,SNS Query
+TCP/UDP,2660,GC Monitor
+TCP/UDP,2661,OLHOST
+TCP/UDP,2662,BinTec-CAPI
+TCP/UDP,2663,BinTec-TAPI
+TCP/UDP,2664,Command MQ GM
+TCP/UDP,2665,Command MQ PM
+TCP/UDP,2666,extensis
+TCP/UDP,2667,Alarm Clock Server
+TCP/UDP,2668,Alarm Clock Client
+TCP/UDP,2669,TOAD
+TCP/UDP,2670,TVE Announce
+TCP/UDP,2671,newlixreg
+TCP/UDP,2672,nhserver
+TCP/UDP,2673,First Call 42
+TCP/UDP,2674,ewnn
+TCP/UDP,2675,TTC ETAP
+TCP/UDP,2676,SIMSLink
+TCP/UDP,2677,Gadget Gate 1 Way
+TCP/UDP,2678,Gadget Gate 2 Way
+TCP/UDP,2679,Sync Server SSL
+TCP/UDP,2680,pxc-sapxom
+TCP/UDP,2681,mpnjsomb
+TCP/UDP,2682,SRSP
+TCP/UDP,2683,NCDLoadBalance
+TCP/UDP,2684,mpnjsosv
+TCP/UDP,2685,mpnjsocl
+TCP/UDP,2686,mpnjsomg
+TCP/UDP,2687,pq-lic-mgmt
+TCP/UDP,2688,md-cf-HTTP
+TCP/UDP,2689,FastLynx
+TCP/UDP,2690,HP NNM Embedded Database
+TCP/UDP,2691,IT Internet
+TCP/UDP,2692,Admins LMS
+TCP/UDP,2693,belarc-HTTP
+TCP/UDP,2694,pwrsevent
+TCP/UDP,2695,VSPREAD
+TCP/UDP,2696,Unify Admin
+TCP/UDP,2697,Oce SNMP Trap Port
+TCP/UDP,2698,MCK-IVPIP
+TCP/UDP,2699,Csoft Plus Client
+TCP/UDP,2700,tqdata
+TCP/UDP,2701,SMS Remote Control (control)
+TCP/UDP,2702,SMS Remote Control (data)
+TCP/UDP,2703,SMS Remote Control (chat)
+TCP/UDP,2704,SMS Remote File Transfer
+TCP/UDP,2705,SDS Admin
+TCP/UDP,2706,NCD Mirroring
+TCP/UDP,2707,EMCSYMAPIPORT
+TCP/UDP,2708,Banyan-Net
+TCP/UDP,2709,Supermon
+TCP/UDP,2710,SSO Service
+TCP/UDP,2711,SSO Control
+TCP/UDP,2712,Axapta Object Communication Protocol
+TCP/UDP,2713,Raven1
+TCP/UDP,2714,Raven2
+TCP/UDP,2715,HPSTGMGR2
+TCP/UDP,2716,Inova IP Disco
+TCP/UDP,2717,PN REQUESTER
+TCP/UDP,2718,PN REQUESTER 2
+TCP/UDP,2719,Scan & Change
+TCP/UDP,2720,wkars
+TCP/UDP,2721,Smart Diagnose
+TCP/UDP,2722,Proactive Server
+TCP/UDP,2723,WatchDog NT
+TCP/UDP,2724,qotps
+TCP/UDP,2725,SQL Analysis Services / MSOLAP PTP2
+TCP/UDP,2726,TAMS
+TCP/UDP,2727,Media Gateway Control Protocol Call Agent
+TCP/UDP,2728,SQDR
+TCP/UDP,2729,TCIM Control
+TCP/UDP,2730,NEC RaidPlus
+TCP/UDP,2731,NetDragon Messanger
+TCP/UDP,2732,G5M
+TCP/UDP,2733,Signet CTF
+TCP/UDP,2734,CCS Software
+TCP/UDP,2735,Monitor Console
+TCP/UDP,2736,RADWIZ NMS SRV
+TCP/UDP,2737,SRP Feedback
+TCP/UDP,2738,NDL TCP-OSI Gateway
+TCP/UDP,2739,TN Timing
+TCP/UDP,2740,Alarm
+TCP/UDP,2741,TSB
+TCP/UDP,2742,TSB2
+TCP/UDP,2743,murx
+TCP/UDP,2744,honyaku
+TCP/UDP,2745,W32.Beagle.C trojan) / URBISNET
+TCP/UDP,2746,CPUDPENCAP
+TCP/UDP,2747,yk.fujitsu.co.jp
+TCP/UDP,2748,yk.fujitsu.co.jp
+TCP/UDP,2749,yk.fujitsu.co.jp
+TCP/UDP,2750,yk.fujitsu.co.jp
+TCP/UDP,2751,yk.fujitsu.co.jp
+TCP/UDP,2752,RSISYS ACCESS
+TCP/UDP,2753,de-spot
+TCP/UDP,2754,APOLLO CC
+TCP/UDP,2755,Express Pay
+TCP/UDP,2756,simplement-tie
+TCP/UDP,2757,CNRP
+TCP/UDP,2758,APOLLO Status
+TCP/UDP,2759,APOLLO GMS
+TCP/UDP,2760,Saba MS
+TCP/UDP,2761,DICOM ISCL
+TCP/UDP,2762,DICOM TLS
+TCP/UDP,2763,Desktop DNA
+TCP/UDP,2764,Data Insurance
+TCP/UDP,2765,qip-audup
+TCP/UDP,2766,Compaq SCP
+TCP/UDP,2767,UADTC
+TCP/UDP,2768,UACS
+TCP/UDP,2769,Single Point MVS
+TCP/UDP,2770,Veronica
+TCP/UDP,2771,Vergence CM
+TCP/UDP,2772,auris
+TCP/UDP,2773,PC Backup
+TCP/UDP,2774,PC Backup
+TCP/UDP,2775,SMMP
+TCP/UDP,2776,Ridgeway Systems & Software
+TCP/UDP,2777,Ridgeway Systems & Software
+TCP/UDP,2778,Gwen-Sonya
+TCP/UDP,2779,LBC Sync
+TCP/UDP,2780,LBC Control
+TCP/UDP,2781,whosells
+TCP/UDP,2782,everydayrc
+TCP/UDP,2783,AISES
+TCP/UDP,2784,world wide web - development
+TCP/UDP,2785,aic-np
+TCP/UDP,2786,aic-oncrpc - Destiny MCD database
+TCP/UDP,2787,piccolo - Cornerstone Software
+TCP/UDP,2788,NetWare Loadable Module - Seagate Software
+TCP/UDP,2789,Media Agent
+TCP/UDP,2790,PLG Proxy
+TCP/UDP,2791,MT Port Registrator
+TCP/UDP,2792,f5-globalsite
+TCP/UDP,2793,initlsmsad
+TCP/UDP,2794,aaftp
+TCP/UDP,2795,LiveStats
+TCP/UDP,2796,ac-tech
+TCP/UDP,2797,esp-encap
+TCP/UDP,2798,TMESIS-UPShot
+TCP/UDP,2799,ICON Discover
+TCP/UDP,2800,ACC RAID
+TCP/UDP,2801,IGCP
+TCP/UDP,2802,Veritas TCP1
+TCP/UDP,2803,btprjctrl
+TCP/UDP,2804,Telexis VTU
+TCP/UDP,2805,WTA WSP-S
+TCP/UDP,2806,cspuni
+TCP/UDP,2807,cspmulti
+TCP/UDP,2808,J-LAN-P
+TCP/UDP,2809,CORBA LOC
+TCP/UDP,2810,Active Net Steward
+TCP/UDP,2811,GSI FTP
+TCP/UDP,2812,atmtcp
+TCP/UDP,2813,llm-pass
+TCP/UDP,2814,llm-csv
+TCP/UDP,2815,LBC Measurement
+TCP/UDP,2816,LBC Watchdog
+TCP/UDP,2817,NMSig Port
+TCP/UDP,2818,rmlnk
+TCP/UDP,2819,FC Fault Notification
+TCP/UDP,2820,UniVision
+TCP/UDP,2821,vml_dms
+TCP/UDP,2822,ka0wuc
+TCP/UDP,2823,CQG Net/LAN
+TCP/UDP,2826,slc systemlog
+TCP/UDP,2827,slc ctrlrloops
+TCP/UDP,2828,ITM License Manager
+TCP/UDP,2829,silkp1
+TCP/UDP,2830,silkp2
+TCP/UDP,2831,silkp3
+TCP/UDP,2832,silkp4
+TCP/UDP,2833,glishd
+TCP/UDP,2834,EVTP
+TCP/UDP,2835,EVTP-DATA
+TCP/UDP,2836,catalyst
+TCP/UDP,2837,Repliweb
+TCP/UDP,2838,Starbot
+TCP/UDP,2839,NMSigPort
+TCP/UDP,2840,l3-exprt
+TCP/UDP,2841,l3-ranger
+TCP/UDP,2842,l3-hawk
+TCP/UDP,2843,PDnet
+TCP/UDP,2844,BPCP POLL
+TCP/UDP,2845,BPCP TRAP
+TCP/UDP,2846,AIMPP Hello
+TCP/UDP,2847,AIMPP Port Req
+TCP/UDP,2848,AMT-BLC-PORT
+TCP/UDP,2849,FXP
+TCP/UDP,2850,MetaConsole
+TCP/UDP,2851,webemshttp
+TCP/UDP,2852,bears-01
+TCP/UDP,2853,ISPipes
+TCP/UDP,2854,InfoMover
+TCP/UDP,2856,cesdinv
+TCP/UDP,2857,SimCtIP
+TCP/UDP,2858,ECNP
+TCP/UDP,2859,Active Memory
+TCP/UDP,2860,Dialpad Voice 1
+TCP/UDP,2861,Dialpad Voice 2
+TCP/UDP,2862,TTG Protocol
+TCP/UDP,2863,Sonar Data
+TCP/UDP,2864,main 5001 cmd
+TCP/UDP,2865,pit-vpn
+TCP/UDP,2866,lwlistener
+TCP/UDP,2867,esps-portal
+TCP/UDP,2868,NPEP Messaging
+TCP/UDP,2869,SSDP event notification / ICSLAP
+TCP/UDP,2870,daishi
+TCP/UDP,2871,MSI Select Play
+TCP/UDP,2872,CONTRACT
+TCP/UDP,2873,PASPAR2 ZoomIn
+TCP/UDP,2874,dxmessagebase1
+TCP/UDP,2875,dxmessagebase2
+TCP/UDP,2876,SPS Tunnel
+TCP/UDP,2877,BLUELANCE
+TCP/UDP,2878,AAP
+TCP/UDP,2879,ucentric-ds
+TCP/UDP,2880,synapse
+TCP/UDP,2881,NDSP
+TCP/UDP,2882,NDTP
+TCP/UDP,2883,NDNP
+TCP/UDP,2884,Flash Msg
+TCP/UDP,2885,TopFlow
+TCP/UDP,2886,RESPONSELOGIC
+TCP/UDP,2887,aironet
+TCP/UDP,2888,SPCSDLOBBY
+TCP/UDP,2889,RSOM
+TCP/UDP,2890,CSPCLMULTI
+TCP/UDP,2891,CINEGRFX-ELMD License Manager
+TCP/UDP,2892,SNIFFERDATA
+TCP/UDP,2893,VSECONNECTOR
+TCP/UDP,2894,ABACUS-REMOTE
+TCP/UDP,2895,NATUS LINK
+TCP/UDP,2896,ECOVISIONG6-1
+TCP/UDP,2897,Citrix RTMP
+TCP/UDP,2898,APPLIANCE-CFG
+TCP/UDP,2899,case.nm.fujitsu.co.jp
+TCP/UDP,2900,magisoft.com
+TCP/UDP,2901,ALLSTORCNS
+TCP/UDP,2902,NET ASPI
+TCP/UDP,2903,SUITCASE
+TCP/UDP,2904,M2UA
+TCP/UDP,2905,M3UA
+TCP/UDP,2906,CALLER9
+TCP/UDP,2907,WEBMETHODS B2B
+TCP/UDP,2908,mao
+TCP/UDP,2909,Funk Dialout
+TCP/UDP,2910,TDAccess
+TCP/UDP,2911,Blockade
+TCP/UDP,2912,Epicon
+TCP/UDP,2913,Booster Ware
+TCP/UDP,2914,Game Lobby
+TCP/UDP,2915,TK Socket
+TCP/UDP,2916,Elvin Server
+TCP/UDP,2917,Elvin Client
+TCP/UDP,2918,Kasten Chase Pad
+TCP/UDP,2919,ROBOER
+TCP/UDP,2920,ROBOEDA
+TCP/UDP,2921,CESD Contents Delivery Management
+TCP/UDP,2922,CESD Contents Delivery Data Transfer
+TCP/UDP,2923,WTA-WSP-WTP-S
+TCP/UDP,2924,PRECISE-VIP
+TCP/UDP,2925,Firewall Redundancy Protocol
+TCP/UDP,2926,MOBILE-FILE-DL
+TCP/UDP,2927,UNIMOBILECTRL
+TCP/UDP,2928,REDSTONE-CPSS
+TCP/UDP,2929,PANJA-WEBADMIN
+TCP/UDP,2930,PANJA-WEBLINX
+TCP/UDP,2931,Circle-X
+TCP/UDP,2932,INCP
+TCP/UDP,2933,4-TIER OPM GW
+TCP/UDP,2934,4-TIER OPM CLI
+TCP/UDP,2935,QTP
+TCP/UDP,2936,OTPatch
+TCP/UDP,2937,PNACONSULT-LM
+TCP/UDP,2938,SM-PAS-1
+TCP/UDP,2939,SM-PAS-2
+TCP/UDP,2940,SM-PAS-3
+TCP/UDP,2941,SM-PAS-4
+TCP/UDP,2942,SM-PAS-5
+TCP/UDP,2943,TTNRepository
+TCP/UDP,2944,Megaco H-248
+TCP/UDP,2945,H248 Binary
+TCP/UDP,2946,FJSVmpor
+TCP/UDP,2947,GPSD
+TCP/UDP,2948,WAP PUSH
+TCP/UDP,2949,WAP PUSH SECURE
+TCP/UDP,2950,ESIP
+TCP/UDP,2951,OTTP
+TCP/UDP,2952,MPFWSAS
+TCP/UDP,2953,OVALARMSRV
+TCP/UDP,2954,OVALARMSRV-CMD
+TCP/UDP,2955,CSNOTIFY
+TCP/UDP,2956,OVRIMOSDBMAN
+TCP/UDP,2957,JAMCT5
+TCP/UDP,2958,JAMCT6
+TCP/UDP,2959,RMOPAGT
+TCP/UDP,2960,DFOXSERVER
+TCP/UDP,2961,BOLDSOFT-LM
+TCP/UDP,2962,IPH-POLICY-CLI
+TCP/UDP,2963,IPH-POLICY-ADM
+TCP/UDP,2964,BULLANT SRAP
+TCP/UDP,2965,BULLANT RAP
+TCP/UDP,2966,IDP-INFOTRIEVE
+TCP/UDP,2967,SSC-AGENT
+TCP/UDP,2968,ENPP
+TCP/UDP,2969,UPnP / ESSP
+TCP/UDP,2970,INDEX-NET
+TCP/UDP,2971,Net Clip
+TCP/UDP,2972,PMSM Webrctl
+TCP/UDP,2973,SV Networks
+TCP/UDP,2974,Signal
+TCP/UDP,2975,Fujitsu Configuration Management Service
+TCP/UDP,2976,CNS Server Port
+TCP/UDP,2977,TTCs Enterprise Test Access Protocol - NS
+TCP/UDP,2978,TTCs Enterprise Test Access Protocol - DS
+TCP/UDP,2979,H.263 Video Streaming
+TCP/UDP,2980,Instant Messaging Service
+TCP/UDP,2981,MYLXAMPORT
+TCP/UDP,2982,IWB-WHITEBOARD
+TCP/UDP,2983,NETPLAN
+TCP/UDP,2984,HPIDSADMIN
+TCP/UDP,2985,HPIDSAGENT
+TCP/UDP,2986,STONEFALLS
+TCP/UDP,2987,IDENTIFY
+TCP/UDP,2988,CLASSIFY
+TCP/UDP,2989,ZARKOV
+TCP/UDP,2990,BOSCAP
+TCP/UDP,2991,WKSTN-MON
+TCP/UDP,2992,ITB301
+TCP/UDP,2993,VERITAS VIS1
+TCP/UDP,2994,VERITAS VIS2
+TCP/UDP,2995,IDRS
+TCP/UDP,2996,vsixml
+TCP/UDP,2997,REBOL
+TCP/UDP,2998,Real Secure
+TCP/UDP,2999,RemoteWare Unassigned
+TCP/UDP,3000,RemoteWare Client
+TCP/UDP,3001,Phatbot Worm / Redwood Broker
+TCP/UDP,3002,RemoteWare Server
+TCP/UDP,3003,CGMS
+TCP/UDP,3004,Csoft Agent
+TCP/UDP,3005,Genius License Manager
+TCP/UDP,3006,Instant Internet Admin
+TCP/UDP,3007,Lotus Mail Tracking Agent Protocol
+TCP/UDP,3008,Midnight Technologies
+TCP/UDP,3009,PXC-NTFY
+TCP/UDP,3010,Telerate Workstation
+TCP/UDP,3011,Trusted Web
+TCP/UDP,3012,Trusted Web Client
+TCP/UDP,3013,Gilat Sky Surfer
+TCP/UDP,3014,Broker Service
+TCP/UDP,3015,NATI DSTP
+TCP/UDP,3016,Notify Server
+TCP/UDP,3017,Event Listener
+TCP/UDP,3018,Service Registry
+TCP/UDP,3019,Resource Manager
+TCP/UDP,3020,CIFS
+TCP/UDP,3021,AGRI Server
+TCP/UDP,3022,CSREGAGENT
+TCP/UDP,3023,magicnotes
+TCP/UDP,3024,NDS_SSO
+TCP/UDP,3025,Arepa Raft
+TCP/UDP,3026,AGRI Gateway
+TCP/UDP,3027,LiebDevMgmt_C
+TCP/UDP,3028,LiebDevMgmt_DM
+TCP/UDP,3029,LiebDevMgmt_A
+TCP/UDP,3030,Arepa Cas
+TCP/UDP,3031,AgentVU
+TCP/UDP,3032,Redwood Chat
+TCP/UDP,3033,PDB
+TCP/UDP,3034,Osmosis AEEA
+TCP/UDP,3035,FJSV gssagt
+TCP/UDP,3036,Hagel DUMP
+TCP/UDP,3037,HP SAN Mgmt
+TCP/UDP,3038,Santak UPS
+TCP/UDP,3039,Cogitate Inc.
+TCP/UDP,3040,Tomato Springs
+TCP/UDP,3041,di-traceware
+TCP/UDP,3042,journee
+TCP/UDP,3043,BRP
+TCP/UDP,3045,ResponseNet
+TCP/UDP,3046,di-ase
+TCP/UDP,3047,Fast Security HL Server
+TCP/UDP,3048,Sierra Net PC Trader
+TCP/UDP,3049,NSWS
+TCP/UDP,3050,gds_db
+TCP/UDP,3051,Galaxy Server
+TCP/UDP,3052,APCPCNS
+TCP/UDP,3053,dsom-server
+TCP/UDP,3054,AMT CNF PROT
+TCP/UDP,3055,Policy Server
+TCP/UDP,3056,CDL Server
+TCP/UDP,3057,GoAhead FldUp
+TCP/UDP,3058,videobeans
+TCP/UDP,3059,qsoft
+TCP/UDP,3060,interserver
+TCP/UDP,3061,cautcpd
+TCP/UDP,3062,ncacn-ip-tcp
+TCP/UDP,3063,ncadg-ip-udp
+TCP/UDP,3065,slinterbase
+TCP/UDP,3066,NETATTACHSDMP
+TCP/UDP,3067,W32.Korgo Worm / FJHPJP
+TCP/UDP,3068,ls3 Broadcast
+TCP/UDP,3069,ls3
+TCP/UDP,3070,MGXSWITCH
+TCP/UDP,3075,Orbix 2000 Locator
+TCP/UDP,3076,Orbix 2000 Config
+TCP/UDP,3077,Orbix 2000 Locator SSL
+TCP/UDP,3078,Orbix 2000 Locator SSL
+TCP/UDP,3079,LV Front Panel
+TCP/UDP,3080,stm_pproc
+TCP/UDP,3081,TL1-LV
+TCP/UDP,3082,TL1-RAW
+TCP/UDP,3083,TL1-TELNET
+TCP/UDP,3084,ITM-MCCS
+TCP/UDP,3085,PCIHReq
+TCP/UDP,3086,JDL-DBKitchen
+TCP/UDP,3105,Cardbox
+TCP/UDP,3106,Cardbox HTTP
+TCP,3127,W32.Mydoom.A virus
+TCP,3128,Squid HTTP Proxy / W32.Mydoom.B virus
+TCP,3129,Master's Paradise (Windows Trojan)
+TCP/UDP,3130,ICPv2
+TCP/UDP,3131,Net Book Mark
+TCP/UDP,3141,VMODEM
+TCP/UDP,3142,RDC WH EOS
+TCP/UDP,3143,Sea View
+TCP/UDP,3144,Tarantella
+TCP/UDP,3145,CSI-LFAP
+TCP/UDP,3147,RFIO
+TCP/UDP,3148,NetMike Game Administrator
+TCP/UDP,3149,NetMike Game Server
+TCP/UDP,3150,NetMike Assessor Administrator
+TCP/UDP,3151,NetMike Assessor
+TCP/UDP,3180,Millicent Broker Server
+TCP/UDP,3181,BMC Patrol Agent
+TCP/UDP,3182,BMC Patrol Rendezvous
+TCP/UDP,3262,NECP
+TCP/UDP,3264,cc:mail/lotus
+TCP/UDP,3265,Altav Tunnel
+TCP/UDP,3266,NS CFG Server
+TCP/UDP,3267,IBM Dial Out
+TCP/UDP,3268,Microsoft Global Catalog
+TCP/UDP,3269,Microsoft Global Catalog with LDAP/SSL
+TCP/UDP,3270,Verismart
+TCP/UDP,3271,CSoft Prev Port
+TCP/UDP,3272,Fujitsu User Manager
+TCP/UDP,3273,Simple Extensible Multiplexed Protocol
+TCP/UDP,3274,Ordinox Server
+TCP/UDP,3275,SAMD
+TCP/UDP,3276,Maxim ASICs
+TCP/UDP,3277,AWG Proxy
+TCP/UDP,3278,LKCM Server
+TCP/UDP,3279,admind
+TCP/UDP,3280,VS Server
+TCP/UDP,3281,SYSOPT
+TCP/UDP,3282,Datusorb
+TCP/UDP,3283,Net Assistant
+TCP/UDP,3284,4Talk
+TCP/UDP,3285,Plato
+TCP/UDP,3286,E-Net
+TCP/UDP,3287,DIRECTVDATA
+TCP/UDP,3288,COPS
+TCP/UDP,3289,ENPC
+TCP/UDP,3290,CAPS LOGISTICS TOOLKIT - LM
+TCP/UDP,3291,S A Holditch & Associates - LM
+TCP/UDP,3292,Cart O Rama
+TCP/UDP,3293,fg-fps
+TCP/UDP,3294,fg-gip
+TCP/UDP,3295,Dynamic IP Lookup
+TCP/UDP,3296,Rib License Manager
+TCP/UDP,3297,Cytel License Manager
+TCP/UDP,3298,Transview
+TCP/UDP,3299,pdrncs
+TCP,3300,bmc-patrol-agent
+TCP/UDP,3301,Unathorised use by SAP R/3
+TCP/UDP,3302,MCS Fastmail
+TCP/UDP,3303,OP Session Client
+TCP/UDP,3304,OP Session Server
+TCP/UDP,3305,ODETTE-FTP
+TCP/UDP,3306,MySQL
+TCP/UDP,3307,OP Session Proxy
+TCP/UDP,3308,TNS Server
+TCP/UDP,3309,TNS ADV
+TCP/UDP,3310,Dyna Access
+TCP/UDP,3311,MCNS Tel Ret
+TCP/UDP,3312,Application Management Server
+TCP/UDP,3313,Unify Object Broker
+TCP/UDP,3314,Unify Object Host
+TCP/UDP,3315,CDID
+TCP/UDP,3316,AICC/CMI
+TCP/UDP,3317,VSAI PORT
+TCP/UDP,3318,Swith to Swith Routing Information Protocol
+TCP/UDP,3319,SDT License Manager
+TCP/UDP,3320,Office Link 2000
+TCP/UDP,3321,VNSSTR
+TCP/UDP,3325,isi.edu
+TCP/UDP,3326,SFTU
+TCP/UDP,3327,BBARS
+TCP/UDP,3328,Eaglepoint License Manager
+TCP/UDP,3329,HP Device Disc
+TCP/UDP,3330,MCS Calypso ICF
+TCP/UDP,3331,MCS Messaging
+TCP/UDP,3332,MCS Mail Server
+TCP/UDP,3333,DEC Notes
+TCP/UDP,3334,Direct TV Webcasting
+TCP/UDP,3335,Direct TV Software Updates
+TCP/UDP,3336,Direct TV Tickers
+TCP/UDP,3337,Direct TV Data Catalog
+TCP/UDP,3338,OMF data b
+TCP/UDP,3339,OMF data l
+TCP/UDP,3340,OMF data m
+TCP/UDP,3341,OMF data h
+TCP/UDP,3342,WebTIE
+TCP/UDP,3343,MS Cluster Net
+TCP/UDP,3344,BNT Manager
+TCP/UDP,3345,Influence
+TCP/UDP,3346,Trnsprnt Proxy
+TCP/UDP,3347,Phoenix RPC
+TCP/UDP,3348,Pangolin Laser
+TCP/UDP,3349,Chevin Services
+TCP/UDP,3350,FINDVIATV
+TCP/UDP,3351,BTRIEVE
+TCP/UDP,3352,SSQL
+TCP/UDP,3353,FATPIPE
+TCP/UDP,3354,SUITJD
+TCP/UDP,3355,Hogle (proxy backdoor) / Ordinox Dbase
+TCP/UDP,3356,UPNOTIFYPS
+TCP/UDP,3357,Adtech Test IP
+TCP/UDP,3358,Mp Sys Rmsvr
+TCP/UDP,3359,WG NetForce
+TCP/UDP,3360,KV Server
+TCP/UDP,3361,KV Agent
+TCP/UDP,3362,DJ ILM
+TCP/UDP,3363,NATI Vi Server
+TCP/UDP,3364,Creative Server
+TCP/UDP,3365,Content Server
+TCP/UDP,3366,Creative Partner
+TCP/UDP,3371,ccm.jf.intel.com
+TCP/UDP,3372,Microsoft Distributed Transaction Coordinator (MSDTC) / TIP 2
+TCP/UDP,3373,Lavenir License Manager
+TCP/UDP,3374,Cluster Disc
+TCP/UDP,3375,VSNM Agent
+TCP/UDP,3376,CD Broker
+TCP/UDP,3377,Cogsys Network License Manager
+TCP/UDP,3378,WSICOPY
+TCP/UDP,3379,SOCORFS
+TCP/UDP,3380,SNS Channels
+TCP/UDP,3381,Geneous
+TCP/UDP,3382,Fujitsu Network Enhanced Antitheft function
+TCP/UDP,3383,Enterprise Software Products License Manager
+TCP/UDP,3384,Cluster Management Services
+TCP/UDP,3385,qnxnetman
+TCP/UDP,3386,GPRS Data
+TCP/UDP,3387,Back Room Net
+TCP/UDP,3388,CB Server
+TCP/UDP,3389,MS Terminal Server
+TCP/UDP,3390,Distributed Service Coordinator
+TCP/UDP,3391,SAVANT
+TCP/UDP,3392,EFI License Management
+TCP/UDP,3393,D2K Tapestry Client to Server
+TCP/UDP,3394,D2K Tapestry Server to Server
+TCP/UDP,3395,Dyna License Manager (Elam)
+TCP/UDP,3396,Printer Agent
+TCP/UDP,3397,Cloanto License Manager
+TCP/UDP,3398,Mercantile
+TCP/UDP,3399,CSMS
+TCP/UDP,3400,CSMS2
+TCP/UDP,3401,filecast
+TCP,3410,Backdoor.OptixPro.13
+TCP/UDP,3421,Bull Apprise portmapper
+TCP/UDP,3454,Apple Remote Access Protocol
+TCP/UDP,3455,RSVP Port
+TCP/UDP,3456,VAT default data
+TCP/UDP,3457,VAT default control
+TCP/UDP,3458,D3WinOsfi
+TCP/UDP,3459,TIP Integral
+TCP/UDP,3460,EDM Manger
+TCP/UDP,3461,EDM Stager
+TCP/UDP,3462,EDM STD Notify
+TCP/UDP,3463,EDM ADM Notify
+TCP/UDP,3464,EDM MGR Sync
+TCP/UDP,3465,EDM MGR Cntrl
+TCP/UDP,3466,WORKFLOW
+TCP/UDP,3467,RCST
+TCP/UDP,3468,TTCM Remote Controll
+TCP/UDP,3469,Pluribus
+TCP/UDP,3470,jt400
+TCP/UDP,3471,jt400-ssl
+TCP/UDP,3535,MS-LA
+TCP/UDP,3563,Watcom Debug
+TCP/UDP,3572,harlequin.co.uk
+TCP/UDP,3672,harlequinorb
+TCP,3689,Apple Digital Audio Access Protocol
+TCP/UDP,3802,VHD
+TCP/UDP,3845,V-ONE Single Port Proxy
+TCP/UDP,3862,GIGA-POCKET
+TCP/UDP,3875,PNBSCADA
+TCP/UDP,3900,Unidata UDT OS
+TCP/UDP,3984,MAPPER network node manager
+TCP/UDP,3985,MAPPER TCP/IP server
+TCP/UDP,3986,MAPPER workstation server
+TCP/UDP,3987,Centerline
+TCP/UDP,4000,Terabase
+TCP/UDP,4001,Cisco mgmt / NewOak
+TCP/UDP,4002,pxc-spvr-ft
+TCP/UDP,4003,pxc-splr-ft
+TCP/UDP,4004,pxc-roid
+TCP/UDP,4005,pxc-pin
+TCP/UDP,4006,pxc-spvr
+TCP/UDP,4007,pxc-splr
+TCP/UDP,4008,NetCheque accounting
+TCP/UDP,4009,Chimera HWM
+TCP/UDP,4010,Samsung Unidex
+TCP/UDP,4011,Alternate Service Boot
+TCP/UDP,4012,PDA Gate
+TCP/UDP,4013,ACL Manager
+TCP/UDP,4014,TAICLOCK
+TCP/UDP,4015,Talarian Mcast
+TCP/UDP,4016,Talarian Mcast
+TCP/UDP,4017,Talarian Mcast
+TCP/UDP,4018,Talarian Mcast
+TCP/UDP,4019,Talarian Mcast
+TCP/UDP,4045,nfs-lockd
+TCP/UDP,4096,BRE (Bridge Relay Element)
+TCP/UDP,4097,Patrol View
+TCP/UDP,4098,drmsfsd
+TCP/UDP,4099,DPCP
+TCP/UDP,4132,NUTS Daemon
+TCP/UDP,4133,NUTS Bootp Server
+TCP/UDP,4134,NIFTY-Serve HMI protocol
+TCP/UDP,4141,Workflow Server
+TCP/UDP,4142,Document Server
+TCP/UDP,4143,Document Replication
+TCP/UDP,4144,Compuserve pc windows
+TCP/UDP,4160,Jini Discovery
+TCP/UDP,4199,EIMS ADMIN
+TCP/UDP,4299,earth.path.net
+TCP/UDP,4300,Corel CCam
+TCP/UDP,4321,Remote Who Is
+TCP,4333,mini-sql server
+TCP/UDP,4343,UNICALL
+TCP/UDP,4344,VinaInstall
+TCP/UDP,4345,Macro 4 Network AS
+TCP/UDP,4346,ELAN LM
+TCP/UDP,4347,LAN Surveyor
+TCP/UDP,4348,ITOSE
+TCP/UDP,4349,File System Port Map
+TCP/UDP,4350,Net Device
+TCP/UDP,4351,PLCY Net Services
+TCP/UDP,4353,F5 iQuery
+TCP,4397,Phatbot Worm
+TCP/UDP,4442,Saris
+TCP/UDP,4443,Pharos
+TCP/UDP,4444,AdSubtract / NV Video default
+TCP/UDP,4445,UPNOTIFYP
+TCP/UDP,4446,N1-FWP
+TCP/UDP,4447,N1-RMGMT
+TCP/UDP,4448,ASC Licence Manager
+TCP/UDP,4449,PrivateWire
+TCP/UDP,4450,Camp
+TCP/UDP,4451,CTI System Msg
+TCP/UDP,4452,CTI Program Load
+TCP/UDP,4453,NSS Alert Manager
+TCP/UDP,4454,NSS Agent Manager
+TCP/UDP,4455,PR Chat User
+TCP/UDP,4456,PR Chat Server
+TCP/UDP,4457,PR Register
+TCP/UDP,4500,sae-urn
+TCP/UDP,4501,urn-x-cdchoice
+TCP/UDP,4545,WorldScores
+TCP/UDP,4546,SF License Manager (Sentinel)
+TCP/UDP,4547,Lanner License Manager
+TCP,4557,FAX transmission service
+TCP,4559,HylaFAX client-service protocol
+TCP/UDP,4567,TRAM
+TCP/UDP,4568,BMC Reporting
+TCP/UDP,4600,Piranha1
+TCP/UDP,4601,Piranha2
+TCP,4661,eDonkey2k
+TCP,4662,eDonkey2k
+TCP,4663,eDonkey
+TCP/UDP,4665,eDonkey2k
+TCP/UDP,4672,remote file access server
+TCP,4675,eMule
+TCP,4711,eMule
+TCP,4751,W32.Beagle.V trojan
+TCP,4772,eMule
+TCP/UDP,4800,Icona Instant Messenging System
+TCP/UDP,4801,Icona Web Embedded Chat
+TCP/UDP,4802,Icona License System Server
+TCP,4820,Backdoor.Tuxter
+TCP/UDP,4827,HTCP
+TCP/UDP,4837,Varadero-0
+TCP/UDP,4838,Varadero-1
+TCP/UDP,4868,Photon Relay
+TCP/UDP,4869,Photon Relay Debug
+TCP/UDP,4885,ABBS
+TCP,4899,RAdmin Win32 remote control
+TCP/UDP,4983,AT&T Intercom
+TCP/UDP,5000,UPnP / filmaker.com / Socket de Troie (Windows Trojan)
+TCP/UDP,5001,filmaker.com / Socket de Troie (Windows Trojan)
+TCP/UDP,5002,radio free ethernet
+TCP/UDP,5003,FileMaker Inc. - Proprietary transport
+TCP/UDP,5004,avt-profile-1
+TCP/UDP,5005,avt-profile-2
+TCP/UDP,5006,wsm server
+TCP/UDP,5007,wsm server ssl
+TCP/UDP,5010,TelepathStart
+TCP/UDP,5011,TelepathAttack
+TCP/UDP,5020,zenginkyo-1
+TCP/UDP,5021,zenginkyo-2
+TCP/UDP,5042,asnaacceler8db
+TCP/UDP,5050,Yahoo Messenger / multimedia conference control tool
+TCP/UDP,5051,ITA Agent
+TCP/UDP,5052,ITA Manager
+TCP/UDP,5055,UNOT
+TCP/UDP,5060,SIP
+TCP/UDP,5069,I/Net 2000-NPR
+TCP/UDP,5071,PowerSchool
+TCP/UDP,5093,Sentinel LM
+TCP/UDP,5099,SentLM Srv2Srv
+TCP,5101,Yahoo! Messenger
+TCP/UDP,5145,RMONITOR SECURE
+TCP/UDP,5150,Ascend Tunnel Management Protocol
+TCP/UDP,5151,ESRI SDE Instance
+TCP/UDP,5152,ESRI SDE Instance Discovery
+TCP/UDP,5165,ife_1corp
+TCP/UDP,5190,America-Online
+TCP/UDP,5191,AmericaOnline1
+TCP/UDP,5192,AmericaOnline2
+TCP/UDP,5193,AmericaOnline3
+TCP/UDP,5200,Targus AIB 1
+TCP/UDP,5201,Targus AIB 2
+TCP/UDP,5202,Targus TNTS 1
+TCP/UDP,5203,Targus TNTS 2
+TCP,5222,Jabber Server
+TCP,5232,SGI Distribution Graphics
+TCP/UDP,5236,padl2sim
+TCP/UDP,5272,PK
+TCP/UDP,5300,HA cluster heartbeat
+TCP/UDP,5301,HA cluster general services
+TCP/UDP,5302,HA cluster configuration
+TCP/UDP,5303,HA cluster probing
+TCP/UDP,5304,HA Cluster Commands
+TCP/UDP,5305,HA Cluster Test
+TCP/UDP,5306,Sun MC Group
+TCP/UDP,5307,SCO AIP
+TCP/UDP,5308,CFengine
+TCP/UDP,5309,J Printer
+TCP/UDP,5310,Outlaws
+TCP/UDP,5311,TM Login
+TCP,5373,W32.Gluber.B@mm
+TCP/UDP,5400,Excerpt Search / Blade Runner (Windows Trojan)
+TCP/UDP,5401,Excerpt Search Secure / Blade Runner (Windows Trojan)
+TCP/UDP,5402,MFTP / Blade Runner (Windows Trojan)
+TCP/UDP,5403,HPOMS-CI-LSTN
+TCP/UDP,5404,HPOMS-DPS-LSTN
+TCP/UDP,5405,NetSupport
+TCP/UDP,5406,Systemics Sox
+TCP/UDP,5407,Foresyte-Clear
+TCP/UDP,5408,Foresyte-Sec
+TCP/UDP,5409,Salient Data Server
+TCP/UDP,5410,Salient User Manager
+TCP/UDP,5411,ActNet
+TCP/UDP,5412,Continuus
+TCP/UDP,5413,WWIOTALK
+TCP/UDP,5414,StatusD
+TCP/UDP,5415,NS Server
+TCP/UDP,5416,SNS Gateway
+TCP/UDP,5417,SNS Agent
+TCP/UDP,5418,MCNTP
+TCP/UDP,5419,DJ-ICE
+TCP/UDP,5420,Cylink-C
+TCP/UDP,5421,Net Support 2
+TCP/UDP,5422,Salient MUX
+TCP/UDP,5423,VIRTUALUSER
+TCP/UDP,5426,DEVBASIC
+TCP/UDP,5427,SCO-PEER-TTA
+TCP/UDP,5428,TELACONSOLE
+TCP/UDP,5429,Billing and Accounting System Exchange
+TCP/UDP,5430,RADEC CORP
+TCP/UDP,5431,PARK AGENT
+TCP,5432,postgres database server
+TCP/UDP,5435,Data Tunneling Transceiver Linking (DTTL)
+TCP/UDP,5454,apc-tcp-udp-4
+TCP/UDP,5455,apc-tcp-udp-5
+TCP/UDP,5456,apc-tcp-udp-6
+TCP/UDP,5461,SILKMETER
+TCP/UDP,5462,TTL Publisher
+TCP/UDP,5465,NETOPS-BROKER
+TCP,5490,Squid HTTP Proxy
+TCP/UDP,5500,fcp-addr-srvr1
+TCP/UDP,5501,fcp-addr-srvr2
+TCP/UDP,5502,fcp-srvr-inst1
+TCP/UDP,5503,fcp-srvr-inst2
+TCP/UDP,5504,fcp-cics-gw1
+TCP,5510,ACE/Server Services
+TCP,5520,ACE/Server Services
+TCP,5530,ACE/Server Services
+TCP/UDP,5540,ACE/Server Services
+TCP,5550,ACE/Server Services / Xtcp 2.0x
+TCP/UDP,5554,Sasser Worm FTP backdoor / SGI ESP HTTP
+TCP/UDP,5555,Personal Agent / W32.Mimail.P@mm
+TCP,5556,Mtbd (mtb backup)
+TCP,5559,Enterprise Security Remote Install axent.com
+TCP/UDP,5599,Enterprise Security Remote Install
+TCP/UDP,5600,Enterprise Security Manager
+TCP/UDP,5601,Enterprise Security Agent
+TCP/UDP,5602,A1-MSC
+TCP/UDP,5603,A1-BS
+TCP/UDP,5604,A3-SDUNode
+TCP/UDP,5605,A4-SDUNode
+TCP/UDP,5631,pcANYWHEREdata
+TCP/UDP,5632,pcANYWHEREstat
+TCP/UDP,5678,LinkSys EtherFast Router Remote Administration / Remote Replication Agent Connection
+TCP/UDP,5679,Direct Cable Connect Manager
+TCP,5680,Canna (Japanese Input)
+TCP/UDP,5713,proshare conf audio
+TCP/UDP,5714,proshare conf video
+TCP/UDP,5715,proshare conf data
+TCP/UDP,5716,proshare conf request
+TCP/UDP,5717,proshare conf notify
+TCP/UDP,5729,Openmail User Agent Layer
+TCP/UDP,5741,IDA Discover Port 1
+TCP/UDP,5742,IDA Discover Port 2 / Wincrash (Windows Trojan)
+TCP/UDP,5745,fcopy-server
+TCP/UDP,5746,fcopys-server
+TCP/UDP,5755,OpenMail Desk Gateway server
+TCP/UDP,5757,OpenMail X.500 Directory Server
+TCP/UDP,5766,OpenMail NewMail Server
+TCP/UDP,5767,OpenMail Suer Agent Layer (Secure)
+TCP/UDP,5768,OpenMail CMTS Server
+TCP/UDP,5771,NetAgent
+TCP,5800,VNC Virtual Network Computing
+TCP,5801,VNC Virtual Network Computing
+TCP/UDP,5813,ICMPD
+TCP/UDP,5859,WHEREHOO
+TCP,5882,Y3k
+TCP,5900,VNC Virtual Network Computing
+TCP,5901,VNC Virtual Network Computing
+TCP/UDP,5968,mppolicy-v5
+TCP/UDP,5969,mppolicy-mgr
+TCP,5977,NCD preferences TCP port
+TCP,5978,NCD diagnostic TCP port
+TCP,5979,NCD configuration TCP port
+TCP,5980,VNC Virtual Network Computing
+TCP,5981,VNC Virtual Network Computing
+TCP,5987,Solaris Web Enterprise Management RMI
+TCP,5997,NCD preferences telnet port
+TCP,5998,NCD diagnostic telnet port
+TCP/UDP,5999,CVSup
+TCP,6000,X-Windows / W32.LoveGate.ak virus
+TCP,6001,Cisco mgmt
+TCP,6003,Half-Life WON server
+TCP/UDP,6063,X Windows System mit.edu
+TCP/UDP,6064,NDL-AHP-SVC
+TCP/UDP,6065,WinPharaoh
+TCP/UDP,6066,EWCTSP
+TCP/UDP,6067,SRB
+TCP/UDP,6068,GSMP
+TCP/UDP,6069,TRIP
+TCP/UDP,6070,Messageasap
+TCP/UDP,6071,SSDTP
+TCP/UDP,6072,DIAGNOSE-PROC
+TCP/UDP,6073,DirectPlay8
+TCP/UDP,6100,SynchroNet-db
+TCP/UDP,6101,SynchroNet-rtc
+TCP/UDP,6102,SynchroNet-upd
+TCP/UDP,6103,RETS
+TCP/UDP,6104,DBDB
+TCP/UDP,6105,Prima Server
+TCP/UDP,6106,MPS Server
+TCP/UDP,6107,ETC Control
+TCP/UDP,6108,Sercomm-SCAdmin
+TCP/UDP,6109,GLOBECAST-ID
+TCP/UDP,6110,HP SoftBench CM
+TCP/UDP,6111,HP SoftBench Sub-Process Control
+TCP/UDP,6112,dtspcd / Blizzard Battlenet
+TCP/UDP,6123,Backup Express
+TCP,6129,DameWare
+TCP/UDP,6141,Meta Corporation License Manager
+TCP/UDP,6142,Aspen Technology License Manager
+TCP/UDP,6143,Watershed License Manager
+TCP/UDP,6144,StatSci License Manager - 1
+TCP/UDP,6145,StatSci License Manager - 2
+TCP/UDP,6146,Lone Wolf Systems License Manager
+TCP/UDP,6147,Montage License Manager
+TCP/UDP,6148,Ricardo North America License Manager
+TCP/UDP,6149,tal-pod
+TCP/UDP,6253,CRIP
+TCP/UDP,6321,Empress Software Connectivity Server 1
+TCP/UDP,6322,Empress Software Connectivity Server 2
+TCP,6346,Gnutella/Bearshare file sharing Application
+TCP,6348,Limewire P2P
+TCP/UDP,6389,clariion-evr01
+TCP/UDP,6400,saegatesoftware.com
+TCP/UDP,6401,saegatesoftware.com
+TCP/UDP,6402,saegatesoftware.com
+TCP/UDP,6403,saegatesoftware.com
+TCP/UDP,6404,saegatesoftware.com
+TCP/UDP,6405,saegatesoftware.com
+TCP/UDP,6406,saegatesoftware.com
+TCP/UDP,6407,saegatesoftware.com
+TCP/UDP,6408,saegatesoftware.com
+TCP/UDP,6409,saegatesoftware.com
+TCP/UDP,6410,saegatesoftware.com
+TCP/UDP,6455,SKIP Certificate Receive
+TCP/UDP,6456,SKIP Certificate Send
+TCP/UDP,6471,LVision License Manager
+TCP/UDP,6500,BoKS Master
+TCP/UDP,6501,BoKS Servc
+TCP/UDP,6502,BoKS Servm
+TCP/UDP,6503,BoKS Clntd
+TCP/UDP,6505,BoKS Admin Private Port
+TCP/UDP,6506,BoKS Admin Public Port
+TCP/UDP,6507,BoKS Dir Server Private Port
+TCP/UDP,6508,BoKS Dir Server Public Port
+TCP/UDP,6547,apc-tcp-udp-1
+TCP/UDP,6548,apc-tcp-udp-2
+TCP/UDP,6549,apc-tcp-udp-3
+TCP/UDP,6550,fg-sysupdate
+TCP/UDP,6558,xdsxdm
+TCP,6588,AnalogX Web Proxy
+TCP,6665,Internet Relay Chat
+TCP,6666,IRC / Windows Media Unicast Service
+TCP,6667,IRC
+TCP,6668,IRC
+TCP/UDP,6669,IRC
+TCP/UDP,6670,Vocaltec Global Online Directory / Deep Throat 2 (Windows Trojan)
+TCP/UDP,6672,vision_server
+TCP/UDP,6673,vision_elmd
+TCP/UDP,6699,Napster
+TCP/UDP,6700,Napster / Carracho (server)
+TCP/UDP,6701,KTI/ICAD Nameserver
+TCP,6711,SubSeven (Windows Trojan)
+TCP,6723,DDOS communication TCP
+TCP/UDP,6767,BMC PERFORM AGENT
+TCP/UDP,6768,BMC PERFORM MGRD
+TCP,6776,SubSeven/BackDoor-G (Windows Trojan)
+TCP,6777,W32.Beagle.A trojan
+TCP,6789,IBM DB2
+TCP/UDP,6790,HNMP / IBM DB2
+TCP/UDP,6831,ambit-lm
+TCP/UDP,6841,Netmo Default
+TCP/UDP,6842,Netmo HTTP
+TCP/UDP,6850,ICCRUSHMORE
+TCP,6881,BitTorrent Network
+TCP/UDP,6888,MUSE
+TCP,6891,MS Messenger file transfer
+TCP,6901,MS Messenger voice calls
+TCP/UDP,6961,JMACT3
+TCP/UDP,6962,jmevt2
+TCP/UDP,6963,swismgr1
+TCP/UDP,6964,swismgr2
+TCP/UDP,6965,swistrap
+TCP/UDP,6966,swispol
+TCP/UDP,6969,acmsoda
+TCP/UDP,6998,IATP-highPri
+TCP/UDP,6999,IATP-normalPri
+TCP/UDP,7000,IRC / file server itself
+TCP/UDP,7001,WebLogic Server / Callbacks to cache managers
+TCP/UDP,7002,WebLogic Server (SSL) / Half-Life Auth Server / Users & groups database
+TCP/UDP,7003,volume location database
+TCP/UDP,7004,AFS/Kerberos authentication service
+TCP/UDP,7005,volume managment server
+TCP/UDP,7006,error interpretation service
+TCP/UDP,7007,Windows Media Services / basic overseer process
+TCP/UDP,7008,server-to-server updater
+TCP/UDP,7009,remote cache manager service
+TCP/UDP,7010,onlinet uninterruptable power supplies
+TCP/UDP,7011,Talon Discovery Port
+TCP/UDP,7012,Talon Engine
+TCP/UDP,7013,Microtalon Discovery
+TCP/UDP,7014,Microtalon Communications
+TCP/UDP,7015,Talon Webserver
+TCP/UDP,7020,DP Serve
+TCP/UDP,7021,DP Serve Admin
+TCP/UDP,7070,ARCP
+TCP/UDP,7099,lazy-ptop
+TCP/UDP,7100,X Font Service
+TCP/UDP,7121,Virtual Prototypes License Manager
+TCP/UDP,7141,vnet.ibm.com
+TCP,7161,Catalyst
+TCP/UDP,7174,Clutild
+TCP/UDP,7200,FODMS FLIP
+TCP/UDP,7201,DLIP
+TCP,7323,3.11 Remote Administration
+TCP,7326,Internet Citizen's Band
+TCP/UDP,7390,The Swiss Exchange swx.ch
+TCP/UDP,7395,winqedit
+TCP/UDP,7426,OpenView DM Postmaster Manager
+TCP/UDP,7427,OpenView DM Event Agent Manager
+TCP/UDP,7428,OpenView DM Log Agent Manager
+TCP/UDP,7429,OpenView DM rqt communication
+TCP/UDP,7430,OpenView DM xmpv7 api pipe
+TCP/UDP,7431,OpenView DM ovc/xmpv3 api pipe
+TCP/UDP,7437,Faximum
+TCP/UDP,7491,telops-lmd
+TCP/UDP,7511,pafec-lm
+TCP/UDP,7544,FlowAnalyzer DisplayServer
+TCP/UDP,7545,FlowAnalyzer UtilityServer
+TCP/UDP,7566,VSI Omega
+TCP/UDP,7570,Aries Kfinder
+TCP/UDP,7588,Sun License Manager
+TCP/UDP,7597,TROJAN WORM
+TCP/UDP,7633,PMDF Management
+TCP/UDP,7640,CUSeeMe
+TCP/UDP,7777,Oracle App server / cbt
+TCP/UDP,7778,Windows Media Services / Interwise
+TCP/UDP,7781,accu-lmgr
+TCP/UDP,7786,MINIVEND
+TCP/UDP,7932,Tier 2 Data Resource Manager
+TCP/UDP,7933,Tier 2 Business Rules Manager
+TCP/UDP,7967,Supercell
+TCP/UDP,7979,Micromuse-ncps
+TCP/UDP,7980,Quest Vista
+TCP/UDP,7999,iRDMI2
+TCP/UDP,8000,HTTP/iRDMI
+TCP/UDP,8001,HTTP/VCOM Tunnel
+TCP/UDP,8002,HTTP/Teradata ORDBMS
+TCP,8007,Apache JServ Protocol
+TCP/UDP,8008,HTTP Alternate
+TCP,8009,Apache JServ Protocol
+TCP,8010,Wingate HTTP Proxy
+TCP/UDP,8032,ProEd
+TCP/UDP,8033,MindPrint
+TCP/UDP,8080,HTTP / HTTP Proxy
+TCP,8081,HTTP / HTTP Proxy
+TCP/UDP,8082,BlackICE Capture
+TCP,8129,Snapstream PVS Server
+TCP/UDP,8130,INDIGO-VRMI
+TCP/UDP,8131,INDIGO-VBCP
+TCP/UDP,8160,Patrol
+TCP/UDP,8161,Patrol SNMP
+TCP,8181,IPSwitch IMail / Monitor
+TCP/UDP,8200,TRIVNET
+TCP/UDP,8201,TRIVNET
+TCP/UDP,8204,LM Perfworks
+TCP/UDP,8205,LM Instmgr
+TCP/UDP,8206,LM Dta
+TCP/UDP,8207,LM SServer
+TCP/UDP,8208,LM Webwatcher
+TCP/UDP,8351,Server Find
+TCP/UDP,8376,Cruise ENUM
+TCP/UDP,8377,Cruise SWROUTE
+TCP/UDP,8378,Cruise CONFIG
+TCP/UDP,8379,Cruise DIAGS
+TCP/UDP,8380,Cruise UPDATE
+TCP,8383,Web Email
+TCP/UDP,8400,cvd
+TCP/UDP,8401,sabarsd
+TCP/UDP,8402,abarsd
+TCP/UDP,8403,admind
+TCP,8431,Micro PC-Cilin
+TCP/UDP,8450,npmp
+TCP/UDP,8473,Virtual Point to Point
+TCP,8484,Ipswitch IMail
+TCP/UDP,8554,RTSP Alternate (see port 554)
+TCP/UDP,8733,iBus
+TCP/UDP,8763,MC-APPSERVER
+TCP/UDP,8764,OPENQUEUE
+TCP/UDP,8765,Ultraseek HTTP
+TCP/UDP,8804,truecm
+TCP,8866,W32.Beagle.B trojan
+TCP/UDP,8880,CDDBP
+TCP/UDP,8888,NewsEDGE server TCP / AnswerBook2
+TCP/UDP,8889,Desktop Data TCP 1
+TCP/UDP,8890,Desktop Data TCP 2
+TCP/UDP,8891,Desktop Data TCP 3: NESS application
+TCP/UDP,8892,Desktop Data TCP 4: FARM product
+TCP/UDP,8893,Desktop Data TCP 5: NewsEDGE/Web application
+TCP/UDP,8894,Desktop Data TCP 6: COAL application
+TCP/UDP,8900,JMB-CDS 1
+TCP/UDP,8901,JMB-CDS 2
+TCP,8967,Win32/Dabber (Windows worm)
+TCP,8999,Firewall
+TCP/UDP,9000,CSlistener
+TCP,9001,cisco-xremote
+TCP/UDP,9090,WebSM
+TCP,9100,HP JetDirect
+TCP/UDP,9160,NetLOCK1
+TCP/UDP,9161,NetLOCK2
+TCP/UDP,9162,NetLOCK3
+TCP/UDP,9163,NetLOCK4
+TCP/UDP,9164,NetLOCK5
+TCP/UDP,9200,WAP connectionless session service
+TCP/UDP,9201,WAP session service
+TCP/UDP,9202,WAP secure connectionless session service
+TCP/UDP,9203,WAP secure session service
+TCP/UDP,9204,WAP vCard
+TCP/UDP,9205,WAP vCal
+TCP/UDP,9206,WAP vCard Secure
+TCP/UDP,9207,WAP vCal Secure
+TCP,9273,BackGate (Windows rootkit)
+TCP,9274,BackGate (Windows rootkit)
+TCP,9275,BackGate (Windows rootkit)
+TCP,9276,BackGate (Windows rootkit)
+TCP,9277,BackGate (Windows rootkit)
+TCP,9278,BackGate (Windows rootkit)
+TCP,9280,HP JetDirect Embedded Web Server
+TCP,9290,HP JetDirect
+TCP,9291,HP JetDirect
+TCP,9292,HP JetDirect
+TCP/UDP,9321,guibase
+TCP/UDP,9343,MpIdcMgr
+TCP/UDP,9344,Mphlpdmc
+TCP/UDP,9374,fjdmimgr
+TCP/UDP,9396,fjinvmgr
+TCP/UDP,9397,MpIdcAgt
+TCP,9400,InCommand
+TCP/UDP,9500,ismserver
+TCP/UDP,9535,Remote man server
+TCP,9537,Remote man server
+TCP/UDP,9594,Message System
+TCP/UDP,9595,Ping Discovery Service
+TCP/UDP,9600,MICROMUSE-NCPW
+TCP/UDP,9753,rasadv
+TCP/UDP,9876,Session Director
+TCP/UDP,9888,CYBORG Systems
+TCP/UDP,9898,MonkeyCom / Win32/Dabber (Windows worm)
+TCP/UDP,9899,SCTP TUNNELING
+TCP/UDP,9900,IUA
+TCP/UDP,9909,domaintime
+TCP/UDP,9950,APCPCPLUSWIN1
+TCP/UDP,9951,APCPCPLUSWIN2
+TCP/UDP,9952,APCPCPLUSWIN3
+TCP/UDP,9992,Palace
+TCP/UDP,9993,Palace
+TCP/UDP,9994,Palace
+TCP/UDP,9995,Palace
+TCP/UDP,9996,Sasser Worm shell / Palace
+TCP/UDP,9997,Palace
+TCP/UDP,9998,Distinct32
+TCP/UDP,9999,distinct / Win32/Dabber (Windows worm)
+TCP/UDP,10000,Webmin / Network Data Management Protocol/ Dumaru.Y (Windows trojan)
+TCP/UDP,10001,queue
+TCP/UDP,10002,poker
+TCP/UDP,10003,gateway
+TCP/UDP,10004,remp
+TCP/UDP,10005,Secure telnet
+TCP/UDP,10007,MVS Capacity
+TCP/UDP,10012,qmaster
+TCP/UDP,10080,Amanda / MyDoom.B (Windows trojan)
+TCP,10082,Amanda Indexing
+TCP,10083,Amanda Tape Indexing
+TCP/UDP,10113,NetIQ Endpoint
+TCP/UDP,10114,NetIQ Qcheck
+TCP/UDP,10115,Ganymede Endpoint
+TCP/UDP,10128,BMC-PERFORM-SERVICE DAEMON
+TCP,10202,Computer Associate License Manager
+TCP,10203,Computer Associate License Manager
+TCP,10204,Computer Associate License Manager
+TCP/UDP,10288,Blocks
+TCP,10520,Acid Shivers (Windows Trojan)
+TCP/UDP,11000,IRISA
+TCP/UDP,11001,Metasys
+TCP/UDP,11111,Viral Computing Environment (VCE)
+TCP,11117,W32.Beagle.L trojan / URBISNET
+TCP/UDP,11367,ATM UHAS
+TCP,11523,AOL / AdSubtract AOL Proxy
+TCP/UDP,11720,h323 Call Signal Alternate
+TCP,11722,RK Test
+TCP/UDP,12000,IBM Enterprise Extender SNA XID Exchange
+TCP/UDP,12001,IBM Enterprise Extender SNA COS Network Priority
+TCP/UDP,12002,IBM Enterprise Extender SNA COS High Priority
+TCP/UDP,12003,IBM Enterprise Extender SNA COS Medium Priority
+TCP/UDP,12004,IBM Enterprise Extender SNA COS Low Priority
+TCP/UDP,12172,HiveP
+TCP,12345,Netbus (Windows Trojan)
+TCP,12346,NetBus (Windows Trojan)
+TCP,12348,BioNet (Windows Trojan)
+TCP,12349,BioNet (Windows Trojan)
+TCP,12361,Whack-a-mole (Windows Trojan)
+TCP,12362,Whack-a-mole (Windows Trojan)
+TCP/UDP,12753,tsaf port
+TCP,12754,DDOS communication TCP
+TCP/UDP,13160,I-ZIPQD
+TCP/UDP,13223,PowWow Client
+TCP/UDP,13224,PowWow Server
+TCP,13326,game
+TCP/UDP,13720,BPRD Protocol (VERITAS NetBackup)
+TCP/UDP,13721,BPBRM Protocol (VERITAS NetBackup)
+TCP/UDP,13722,BP Java MSVC Protocol
+TCP/UDP,13782,VERITAS NetBackup
+TCP/UDP,13783,VOPIED Protnocol
+TCP/UDP,13818,DSMCC Config
+TCP/UDP,13819,DSMCC Session Messages
+TCP/UDP,13820,DSMCC Pass-Thru Messages
+TCP/UDP,13821,DSMCC Download Protocol
+TCP/UDP,13822,DSMCC Channel Change Protocol
+TCP/UDP,14001,ITU SCCP (SS7)
+TCP,14237,Palm Network Hotsync
+TCP,14247,Mitglieder.H trojan
+TCP,15104,DDOS communication TCP
+TCP/UDP,16360,netserialext1
+TCP/UDP,16361,netserialext2
+TCP/UDP,16367,netserialext3
+TCP/UDP,16368,netserialext4
+TCP,16660,Stacheldraht distributed attack tool client
+TCP,16959,Subseven DEFCON8 2.1 backdoor remote access tool
+TCP/UDP,16991,INTEL-RCI-MP
+TCP/UDP,17007,isode-dua
+TCP/UDP,17219,Chipper
+TCP,17300,Kuang2 (Windows trojan)
+TCP,17569,Infector
+TCP,17990,Worldspan gateway
+TCP/UDP,18000,Beckman Instruments Inc.
+TCP/UDP,18181,OPSEC CVP
+TCP/UDP,18182,OPSEC UFP
+TCP/UDP,18183,OPSEC SAM
+TCP/UDP,18184,OPSEC LEA
+TCP/UDP,18185,OPSEC OMI
+TCP/UDP,18187,OPSEC ELA
+TCP/UDP,18463,AC Cluster
+TCP/UDP,18753,Shaft distributed attack tool handler agent
+TCP/UDP,18888,APCNECMP
+TCP,19216,BackGate (Windows rootkit)
+TCP/UDP,19283,Key Server for SASSAFRAS
+TCP/UDP,19315,Key Shadow for SASSAFRAS
+TCP/UDP,19410,hp-sco
+TCP/UDP,19411,hp-sca
+TCP/UDP,19412,HP-SESSMON
+TCP/UDP,19541,JCP Client
+TCP/UDP,20000,DNP
+TCP,20005,xcept4 (German Telekom's CEPT videotext service)
+TCP,20031,BakBone NetVault
+TCP,20034,NetBus 2 Pro (Windows Trojan)
+TCP/UDP,20432,Shaft distributed attack client
+TCP/UDP,20670,Track
+TCP,20742,Mitglieder.E trojan
+TCP/UDP,20999,At Hand MMP
+TCP,21554,Girlfriend (Windows Trojan)
+TCP/UDP,21590,VoFR Gateway
+TCP/UDP,21845,webphone
+TCP/UDP,21846,NetSpeak Corp. Directory Services
+TCP/UDP,21847,NetSpeak Corp. Connection Services
+TCP/UDP,21848,NetSpeak Corp. Automatic Call Distribution
+TCP/UDP,21849,NetSpeak Corp. Credit Processing System
+TCP/UDP,22000,SNAPenetIO
+TCP/UDP,22001,OptoControl
+TCP,22156,Phatbot Worm
+TCP/UDP,22273,wnn6
+TCP,22289,Wnn6 (Chinese Input)
+TCP,22305,Wnn6 (Korean Input)
+TCP,22321,Wnn6 (Taiwanese Input)
+TCP/UDP,22555,Vocaltec Web Conference
+TCP/UDP,22800,Telerate Information Platform LAN
+TCP/UDP,22951,Telerate Information Platform WAN
+TCP,23005,W32.HLLW.Nettrash
+TCP,23006,W32.HLLW.Nettrash
+TCP,23432,Asylum
+TCP,23476,Donald Dick
+TCP,23477,Donald Dick
+TCP,23485,Shareasa file sharing
+TCP/UDP,24000,med-ltp
+TCP/UDP,24001,med-fsp-rx
+TCP/UDP,24002,med-fsp-tx
+TCP/UDP,24003,med-supp
+TCP/UDP,24004,med-ovw
+TCP/UDP,24005,med-ci
+TCP/UDP,24006,med-net-svc
+TCP/UDP,24386,Intel RCI
+TCP/UDP,24554,BINKP
+TCP/UDP,25000,icl-twobase1
+TCP/UDP,25001,icl-twobase2
+TCP/UDP,25002,icl-twobase3
+TCP/UDP,25003,icl-twobase4
+TCP/UDP,25004,icl-twobase5
+TCP/UDP,25005,icl-twobase6
+TCP/UDP,25006,icl-twobase7
+TCP/UDP,25007,icl-twobase8
+TCP/UDP,25008,icl-twobase9
+TCP/UDP,25009,icl-twobase10
+TCP,25555,Mitglieder.D trojan
+TCP/UDP,25793,Vocaltec Address Server
+TCP,25867,WebCam32 Admin
+TCP/UDP,26000,quake
+TCP/UDP,26208,wnn6-ds
+TCP,26274,Delta Source (Windows Trojan)
+TCP,27347,SubSeven / Linux.Ramen.Worm (RedHat Linux)
+TCP/UDP,27374,SubSeven / Linux.Ramen.Worm (RedHat Linux)
+TCP,27665,Trinoo distributed attack tool Master server control port
+TCP/UDP,27999,TW Authentication/Key Distribution and
+TCP,30100,Netsphere (Windows Trojan)
+TCP,30101,Netsphere (Windows Trojan)
+TCP,30102,Netsphere (Windows Trojan)
+TCP,30999,Kuang
+TCP/UDP,31337,BO2K
+TCP,31785,Hack-A-Tack (Windows Trojan)
+TCP,31787,Hack-A-Tack (Windows Trojan)
+TCP,31788,Hack-A-Tack (Windows Trojan)
+TCP/UDP,31789,Hack-A-Tack (Windows Trojan)
+TCP/UDP,31791,Hack-A-Tack (Windows Trojan)
+TCP,32000,XtraMail v1.11
+TCP/UDP,32768,Filenet TMS
+TCP/UDP,32769,Filenet RPC
+TCP/UDP,32770,Filenet NCH
+TCP,32771,Solaris RPC
+TCP,32772,Solaris RPC
+TCP,32773,Solaris RPC
+TCP,32774,Solaris RPC
+TCP,32775,Solaris RPC
+TCP,32776,Solaris RPC
+TCP,32777,Solaris RPC
+TCP/UDP,32780,RPC
+TCP/UDP,33434,traceroute use
+TCP,34324,Big Gluck (Windows Trojan)
+TCP/UDP,36865,KastenX Pipe
+TCP,40421,Master's Paradise (Windows Trojan)
+TCP,40422,Master's Paradise (Windows Trojan)
+TCP,40423,Master's Paradise (Windows Trojan)
+TCP,40426,Master's Paradise (Windows Trojan)
+TCP/UDP,40841,CSCP
+TCP,42424,ASP.NET Session State
+TCP,43118,Reachout
+TCP,43188,Reachout
+TCP/UDP,44333,Kerio WinRoute Firewall Administration
+TCP/UDP,44334,Kerio Personal Firewall Administration
+TCP/UDP,44337,Kerio MailServer Administration
+TCP,44444,Prosiak
+TCP/UDP,44818,Rockwell Encapsulation
+TCP,45092,BackGate (Windows rootkit)
+TCP/UDP,45678,EBA PRISE
+TCP/UDP,45966,SSRServerMgr
+TCP,47262,Delta Source (Windows Trojan)
+TCP/UDP,47557,Databeam Corporation
+TCP/UDP,47624,Direct Play Server
+TCP/UDP,47806,ALC Protocol
+TCP/UDP,47808,Building Automation and Control Networks
+TCP/UDP,48000,Nimbus Controller
+TCP/UDP,48001,Nimbus Spooler
+TCP/UDP,48002,Nimbus Hub
+TCP/UDP,48003,Nimbus Gateway
+TCP,49400,Compaq Insight Manager
+TCP,49401,Compaq Insight Manager
+TCP,50300,O&O Defrag
+TCP,51515,Microsoft Operations Manager MOM-Clear
+TCP,52673,Stickies
+TCP,54283,SubSeven
+TCP,54320,Orifice 2000 (TCP)
+TCP/UDP,54321,Orifice 2000 (TCP)
+TCP,60000,DeepThroat
+TCP,65000,distributed attack tool / Devil (Windows Trojan)
+TCP,65301,pcAnywhere-def
+TCP,65506,PhatBot
+UDP,1012,This is rstatd on a openBSD box
+UDP,1167,conference calling
+UDP,3527,Microsoft Message Queuing Ping
+UDP,4156,Slapper.C
+UDP,4839,Varadero-2
+UDP,6702,Carracho (client)
+UDP,6838,DDOS communication UDP
+UDP,7170,Audio (inclusive) for incoming traffic only
+UDP,7648,CUCME live video/audio server
+UDP,7649,CUCME live video/audio server
+UDP,7650,CUCME live video/audio server
+UDP,7651,CUCME live video/audio server
+UDP,7983,DDOS communication UDP
+UDP,8099,TestTrack Pro Client
+UDP,9325,DDOS communication UDP
+UDP,10006,rscs6
+UDP,10008,rscs8
+UDP,10009,rscs9
+UDP,10010,rscsa
+UDP,10011,rscsb
+UDP,10067,Portal of Doom remote access backdoor
+UDP,10167,Portal of Doom remote access backdoor
+UDP,10498,DDOS Communication UDP
+UDP,11487,Dell OpenManage Client Instrumentation
+UDP,14238,Palm Network Hotsync
+UDP,27010,Half-Life Server Master
+UDP,27011,Half-Life Mod Master
+UDP,27444,Trinoo distributed attack tool Master
+UDP,31335,Trinoo distributed attack tool Bcast Daemon registration port
+UDP,31338,Deep Back Orifice (Windows Trojan)
+UDP,33270,Trinity v3 distributed attack tool
+UDP,34555,Trinoo distributed attack tool Handler
+UDP,43981,Netware IP
