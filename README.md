@@ -18,9 +18,9 @@ The program accepts the following parameters as inputs, which must be passed at 
 | -h | yes | Name of the **Host** to check | -h lorenzovaccher.com
 | -p | no | Range of **ports** to check | -p 1-65535 |
 | -t | no | **Timeout** for Socket disconnection | -t 100 |
-| -th | no | Number of **Threads** to run | -t 32 |
+| -th | no | Number of **Threads** to run | -th 32 |
 
-Ex: `java -jar PortScanner.jar -h lorenzovaccher.com -t 150 -t 100 -p 1024-5000`
+Ex: `java -jar PortScanner.jar -h lorenzovaccher.com -t 150 -th 100 -p 1024-5000`
 
 > **Warning**: Since it's a program that uses the network to perform the verification, it is reccommended to use the Threads according to the speed of your internet connection and not the computational capacity of your computer. Some tests show that with **60Mbps** in **download** and **15Mbps** in **upload** it is possible to use **32 Threads** without having any problems. A connection with **500Mbps** in **download** and **200Mbps** in **upload** can also handle **800 Threads**.
 
