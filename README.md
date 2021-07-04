@@ -4,10 +4,6 @@ JPortScanner is a software developed in Java that allows you to scan a Host by c
 
 > You can find more information about **Sockets** [here](https://www.javatpoint.com/socket-programming).
 
-## TODO
- - [ ] Saving the result in a CSV file
- - [ ] Saving the result in a PDF file
-
 ## How it works
 To run the program, download the .jar file from this Repository and run it using the following command:
 `java -jar PortScanner.jar`
